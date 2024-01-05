@@ -11,13 +11,15 @@
         background-color: rgb(255, 255, 255) !important;
     }
 
-    h2{
+    h2 {
         margin: 0;
     }
-    p{
+
+    p {
         margin-top: 6px;
     }
-    a{
+
+    a {
         color: rgb(94, 14, 137);
         text-decoration: none;
     }
@@ -37,7 +39,7 @@
         display: flex;
         flex-direction: column;
         justify-content: flex-end;
-        
+
     }
 
     .Links {
@@ -49,8 +51,9 @@
         row-gap: 2px;
         align-self: center;
     }
+
     .Links>* {
-        
+
         margin: 0;
 
     }
@@ -61,7 +64,7 @@
         justify-content: space-around;
     }
 
-    .Rechtliches{
+    .Rechtliches {
         grid-area: Rechtliches;
         font-size: smaller;
     }
@@ -79,16 +82,33 @@
         column-gap: 45px;
         row-gap: 15px;
     }
+
+    @media (max-width: 800px) {
+        .container {
+            grid-template-columns: auto;
+            grid-template-rows: auto;
+            grid-template-areas:
+                "Netzwerkinfos"
+                "Logo1"
+                "Trenner"
+                "Logo2"
+                "Links"
+                "Socials"
+                "Rechtliches";
+        }
+    }
 </style>
 <div class="netzwerk-signatur">
     <div class="container">
         <div class="Logo1">
             <img style="max-width: 130px; display: block; margin-bottom: 14px;"
-                src="https://www.plurale-oekonomik.de/wp-content/uploads/2023/10/logo_NetzwerkMailsignature.jpg" alt="NetzwerkLogo.jpg">
+                src="https://www.plurale-oekonomik.de/wp-content/uploads/2023/10/logo_NetzwerkMailsignature.jpg"
+                alt="NetzwerkLogo.jpg">
         </div>
         <div class="Logo2">
             <img style="max-width: 130px; display: block; margin-bottom: 12px;"
-                src="https://www.plurale-oekonomik.de/wp-content/uploads/2023/10/logo_exploring_economicsMailsignature.jpg" alt="ExploringEconomicsLogo.jpg">
+                src="https://www.plurale-oekonomik.de/wp-content/uploads/2023/10/logo_exploring_economicsMailsignature.jpg"
+                alt="ExploringEconomicsLogo.jpg">
         </div>
         <div class="Infos">
             <h2>Lukas Böhm</h2>
@@ -96,30 +116,35 @@
             <p>Netzwerk Plurale Ökonomik e.V. | Exploring Economics</p>
         </div>
         <div class="Links">
-            <img
-                    style="display: block; background-color: #f2547d;"
-                    src="https://www.plurale-oekonomik.de/wp-content/uploads/2023/10/email-icon2x2.webp"
-                    width="12">
-                    <p><a href="mailto:l.boehm@plurale-oekonomik.de">l.boehm@plurale-oekonomik.de</a></p>
-                    <img
-                    style="display: block; background-color: #f2547d;"
-                    src="https://www.plurale-oekonomik.de/wp-content/uploads/2023/10/link-icon-2x.webp"
-                    width="12">
-                    <p><a href="https://www.plurale-oekonomik.de">www.plurale-oekonomik.de</a> | <a href="https://www.exploring-economics.org">www.exploring-economics.org</a></p>
-                    <img
-                    style="display: block; background-color: #f2547d;"
-                    src="https://www.plurale-oekonomik.de/wp-content/uploads/2023/10/address-icon-2x.webp"
-                    width="12">
-                    <p>Willy-Brandt-Platz 5 | 69115 Heidelberg | Germany</p>
-                    
+            <img style="display: block; background-color: #f2547d;"
+                src="https://www.plurale-oekonomik.de/wp-content/uploads/2023/10/email-icon2x2.webp" width="12">
+            <p><a href="mailto:l.boehm@plurale-oekonomik.de">l.boehm@plurale-oekonomik.de</a></p>
+            <img style="display: block; background-color: #f2547d;"
+                src="https://www.plurale-oekonomik.de/wp-content/uploads/2023/10/link-icon-2x.webp" width="12">
+            <p><a href="https://www.plurale-oekonomik.de">www.plurale-oekonomik.de</a> | <a
+                    href="https://www.exploring-economics.org">www.exploring-economics.org</a></p>
+            <img style="display: block; background-color: #f2547d;"
+                src="https://www.plurale-oekonomik.de/wp-content/uploads/2023/10/address-icon-2x.webp" width="12">
+            <p>Willy-Brandt-Platz 5 | 69115 Heidelberg | Germany</p>
+
         </div>
         <div class="Socials">
-            <a href="https://www.facebook.com/PluraleOekonomik"><img style="background-color: #6a78d1; max-width: 135px; display: block;" src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/facebook-icon-2x.png" alt="facebook" height="24" /></a>
-            <a href="https://twitter.com/PluralEcon"><img style="background-color: #6a78d1; max-width: 135px; display: block;" src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/twitter-icon-2x.png" alt="twitter" height="24" /></a>
-            <a href="https://www.instagram.com/pluraleoekonomik/"><img style="background-color: #6a78d1; max-width: 135px; display: block;" src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/instagram-icon-2x.png" alt="instagram" height="24" /></a>
+            <a href="https://www.facebook.com/PluraleOekonomik"><img
+                    style="background-color: #6a78d1; max-width: 135px; display: block;"
+                    src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/facebook-icon-2x.png"
+                    alt="facebook" height="24" /></a>
+            <a href="https://twitter.com/PluralEcon"><img
+                    style="background-color: #6a78d1; max-width: 135px; display: block;"
+                    src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/twitter-icon-2x.png"
+                    alt="twitter" height="24" /></a>
+            <a href="https://www.instagram.com/pluraleoekonomik/"><img
+                    style="background-color: #6a78d1; max-width: 135px; display: block;"
+                    src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/instagram-icon-2x.png"
+                    alt="instagram" height="24" /></a>
         </div>
         <div class="Rechtliches">
-            <p>Netzwerk Plurale Ökonomik e.V. Registernummer: VR 333294. Vertreten durch die Vorstände: Janosch Stoll, Judith Venohr, Louis Kesse, Joy Thomson</p>
+            <p>Netzwerk Plurale Ökonomik e.V. Registernummer: VR 333294. Vertreten durch die Vorstände: Janosch Stoll,
+                Judith Venohr, Louis Kesse, Joy Thomson</p>
         </div>
     </div>
 </div>
