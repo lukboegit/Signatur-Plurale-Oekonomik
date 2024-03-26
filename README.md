@@ -8,11 +8,13 @@ In der signatur_Netzwerk.html Datei scroll runter bis zum Block `<div class="Inf
 
 Wenn du Exploring aus der Signatur streichen willst, lösche diesen Block:
 
- ```<div class="Logo2">
+ ```
+ <div class="Logo2">
             <img style="max-width: 130px; display: block; margin-bottom: 12px;"
                 src="https://www.plurale-oekonomik.de/wp-content/uploads/2023/10/logo_exploring_economicsMailsignature.jpg"
                 alt="ExploringEconomicsLogo.jpg">
-</div>```
+</div>
+```
 
 und ändere den ersten Block von oben gesehen der mit .container beginnt folgendermaßen:
 
