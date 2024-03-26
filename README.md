@@ -1,6 +1,6 @@
 # Netzwerkkram
 
-Download your fresh official Netzwerk mail signature here
+Download your fresh official Netzwerk mail signature here. (oben auf signatur_netzwerk.html klicken und copy/pasten)
 
 **PERSONALISIERUNG:**
 
