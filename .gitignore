@@ -5,3 +5,4 @@ mandrill_curl_data.sh
 .gitignore
 ./mandrill_analytics
 ./mandrill_analytics_copy
+./node_modules
