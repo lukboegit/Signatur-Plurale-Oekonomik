@@ -1,8 +1,0 @@
-.DS_Store
-signatur_ohneEEcopy.html
-mandrill_curl_data.sh
-.env
-.gitignore
-./mandrill_analytics
-./mandrill_analytics_copy
-./node_modules
