@@ -1,0 +1,4266 @@
+[
+  {
+    "event": [],
+    "diag": null,
+    "log_classification": "sensitive",
+    "tags": [],
+    "subaccount": null,
+    "opens": 1,
+    "clicks": 0,
+    "bgtools_code": null,
+    "email": "eckhard.giere@posteo.de",
+    "document_id": "31261772.d1823c6d50384cc39533da80faffe75c",
+    "@timestamp": "2025-05-14T09:09:00.883224572Z",
+    "elasticsearch_index": "delivered-2025-05-14",
+    "state": "sent",
+    "@version": "1",
+    "smtp_events": [
+      {
+        "diag": "250 2.0.0 Ok: queued as 4Zy5SN3WyFz11Rj",
+        "source_ip": "198.2.179.22",
+        "destination_ip": "185.67.36.70",
+        "ts": 1747209798,
+        "type": "sent",
+        "size": 67624
+      }
+    ],
+    "resends": [],
+    "ts": 1747209795,
+    "subject": "Latest Updates from Exploring Economics",
+    "reject": null,
+    "_id": "d1823c6d50384cc39533da80faffe75c",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "location": "Massachusetts, US",
+        "ua": null,
+        "ts": 1747213547,
+        "ip": "172.226.108.3"
+      }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "bgtools_code": null,
+    "diag": null,
+    "document_id": "31261772.ba2862dead074b8fb075c2a839d71589",
+    "state": "sent",
+    "smtp_events": [
+      {
+        "destination_ip": "134.100.38.103",
+        "size": 67640,
+        "source_ip": "198.2.179.22",
+        "diag": "250 2.0.0 Ok: queued as 4Zy5SM39mhzJmhc",
+        "type": "sent",
+        "ts": 1747209799
+      }
+    ],
+    "tags": [],
+    "resends": [],
+    "@version": "1",
+    "event": [],
+    "clicks": 0,
+    "elasticsearch_index": "delivered-2025-05-14",
+    "@timestamp": "2025-05-14T08:07:25.372790298Z",
+    "subaccount": null,
+    "reject": null,
+    "log_classification": "sensitive",
+    "opens": 0,
+    "email": "lasse.kraus@studium.uni-hamburg.de",
+    "subject": "Latest Updates from Exploring Economics",
+    "ts": 1747209794,
+    "_id": "ba2862dead074b8fb075c2a839d71589",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "subject": "Latest Updates from Exploring Economics",
+    "@version": "1",
+    "bgtools_code": null,
+    "reject": null,
+    "tags": [],
+    "state": "sent",
+    "subaccount": null,
+    "log_classification": "sensitive",
+    "ts": 1747209793,
+    "opens": 0,
+    "elasticsearch_index": "delivered-2025-05-14",
+    "email": "chenchh77@mail2.sysu.edu.cn",
+    "clicks": 0,
+    "resends": [],
+    "document_id": "31261772.ea813544ff30495ba986e1a365a6e301",
+    "event": [],
+    "diag": null,
+    "@timestamp": "2025-05-14T08:08:07.989657200Z",
+    "smtp_events": [
+      {
+        "diag": "250 Ok: queued as ",
+        "source_ip": "198.2.187.22",
+        "ts": 1747209797,
+        "destination_ip": "103.86.78.3",
+        "type": "sent",
+        "size": 67631
+      }
+    ],
+    "_id": "ea813544ff30495ba986e1a365a6e301",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "event": [],
+    "diag": null,
+    "log_classification": "sensitive",
+    "tags": [],
+    "subaccount": null,
+    "opens": 0,
+    "clicks": 0,
+    "bgtools_code": null,
+    "email": "janoppenberg@gmail.com",
+    "document_id": "31261772.26aaf2fe88824a968c96091d34c02f9a",
+    "@timestamp": "2025-05-14T08:07:20.637421571Z",
+    "elasticsearch_index": "delivered-2025-05-14",
+    "state": "sent",
+    "@version": "1",
+    "smtp_events": [
+      {
+        "diag": "250 2.0.0 OK  1747209793 3f1490d57ef6-e78fd711dacsi11273425276.299 - gsmtp",
+        "source_ip": "198.2.187.22",
+        "destination_ip": "172.217.215.27",
+        "ts": 1747209793,
+        "type": "sent",
+        "size": 67614
+      }
+    ],
+    "resends": [],
+    "ts": 1747209792,
+    "subject": "Latest Updates from Exploring Economics",
+    "reject": null,
+    "_id": "26aaf2fe88824a968c96091d34c02f9a",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "event": [],
+    "tags": [],
+    "ts": 1747209791,
+    "smtp_events": [
+      {
+        "destination_ip": "172.217.215.27",
+        "diag": "250 2.0.0 OK  1747209792 3f1490d57ef6-e78fd5bb059si10600418276.108 - gsmtp",
+        "source_ip": "198.2.179.22",
+        "ts": 1747209792,
+        "type": "sent",
+        "size": 67604
+      }
+    ],
+    "subaccount": null,
+    "reject": null,
+    "resends": [],
+    "document_id": "31261772.703c53eb847f41418ffc57ba04501b67",
+    "log_classification": "sensitive",
+    "elasticsearch_index": "delivered-2025-05-14",
+    "bgtools_code": null,
+    "opens": 0,
+    "subject": "Latest Updates from Exploring Economics",
+    "@version": "1",
+    "@timestamp": "2025-05-14T08:07:15.489492505Z",
+    "email": "jdigli89@gmail.com",
+    "diag": null,
+    "state": "sent",
+    "clicks": 0,
+    "_id": "703c53eb847f41418ffc57ba04501b67",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "log_classification": "sensitive",
+    "@version": "1",
+    "smtp_events": [
+      {
+        "source_ip": "198.2.187.22",
+        "destination_ip": "172.217.215.27",
+        "ts": 1747209791,
+        "size": 67645,
+        "type": "sent",
+        "diag": "250 2.0.0 OK  1747209791 00721157ae682-70a3d92a6a8si105894937b3.207 - gsmtp"
+      }
+    ],
+    "elasticsearch_index": "delivered-2025-05-14",
+    "bgtools_code": null,
+    "email": "magalhaesrenang@gmail.com",
+    "diag": null,
+    "tags": [],
+    "document_id": "31261772.95467a43ddf24250878a1bd548c1d72f",
+    "subject": "Latest Updates from Exploring Economics",
+    "ts": 1747209790,
+    "opens": 0,
+    "subaccount": null,
+    "reject": null,
+    "event": [],
+    "clicks": 0,
+    "state": "sent",
+    "@timestamp": "2025-05-14T08:07:29.554043204Z",
+    "resends": [],
+    "_id": "95467a43ddf24250878a1bd548c1d72f",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "smtp_events": [
+      {
+        "ts": 1747209791,
+        "destination_ip": "172.217.215.27",
+        "source_ip": "198.2.187.22",
+        "diag": "250 2.0.0 OK  1747209791 00721157ae682-70a3d928505si130097987b3.244 - gsmtp",
+        "type": "sent",
+        "size": 67614
+      }
+    ],
+    "ts": 1747209790,
+    "subaccount": null,
+    "event": [],
+    "tags": [],
+    "subject": "Latest Updates from Exploring Economics",
+    "clicks": 0,
+    "reject": null,
+    "opens": 1,
+    "@timestamp": "2025-05-15T22:25:51.291219819Z",
+    "document_id": "31261772.0b4464532f4641d8b8573fd08a799b4e",
+    "elasticsearch_index": "delivered-2025-05-14",
+    "log_classification": "sensitive",
+    "@version": "1",
+    "email": "henrifrank2@gmail.com",
+    "state": "sent",
+    "resends": [],
+    "bgtools_code": null,
+    "diag": null,
+    "_id": "0b4464532f4641d8b8573fd08a799b4e",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      { "location": null, "ts": 1747347434, "ua": null, "ip": "104.28.62.43" }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "@timestamp": "2025-05-14T08:07:27.180977614Z",
+    "document_id": "31261772.e8939b988a5c4d658ebe458da9727ae6",
+    "diag": null,
+    "event": [],
+    "opens": 0,
+    "state": "sent",
+    "bgtools_code": null,
+    "@version": "1",
+    "reject": null,
+    "clicks": 0,
+    "elasticsearch_index": "delivered-2025-05-14",
+    "tags": [],
+    "resends": [],
+    "subject": "Latest Updates from Exploring Economics",
+    "log_classification": "sensitive",
+    "smtp_events": [
+      {
+        "diag": "250 2.6.0 <31261772.20250514080309.68244e3d0f71f3.06240859@mail187-22.suw11.mandrillapp.com> [InternalId=31825707665429, Hostname=AS8P250MB0218.EURP250.PROD.OUTLOOK.COM] 80082 bytes in 0.217, 359.313 KB\/sec Queued mail for delivery -> 250 2.1.5",
+        "source_ip": "198.2.187.22",
+        "destination_ip": "52.101.73.17",
+        "ts": 1747209790,
+        "type": "sent",
+        "size": 67617
+      }
+    ],
+    "email": "laurawenzel@hotmail.de",
+    "ts": 1747209789,
+    "subaccount": null,
+    "_id": "e8939b988a5c4d658ebe458da9727ae6",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "event": [],
+    "diag": null,
+    "log_classification": "sensitive",
+    "tags": [],
+    "subaccount": null,
+    "opens": 1,
+    "clicks": 0,
+    "bgtools_code": null,
+    "email": "sebastian_gallin@yahoo.de",
+    "document_id": "31261772.94dc196f5e9a4efcb6691c723e621b0f",
+    "@timestamp": "2025-05-14T10:00:57.846670453Z",
+    "elasticsearch_index": "delivered-2025-05-14",
+    "state": "sent",
+    "@version": "1",
+    "smtp_events": [
+      {
+        "diag": "250 ok dirdel",
+        "source_ip": "198.2.187.22",
+        "destination_ip": "188.125.72.73",
+        "ts": 1747209789,
+        "type": "sent",
+        "size": 67635
+      }
+    ],
+    "resends": [],
+    "ts": 1747209788,
+    "subject": "Latest Updates from Exploring Economics",
+    "reject": null,
+    "_id": "94dc196f5e9a4efcb6691c723e621b0f",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "location": "-, IE",
+        "ua": null,
+        "ts": 1747216406,
+        "ip": "87.248.116.78"
+      }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "@timestamp": "2025-05-14T08:07:15.185532450Z",
+    "document_id": "31261772.54f84e3733944e8e9b2dc812748687e6",
+    "diag": null,
+    "event": [],
+    "opens": 0,
+    "state": "sent",
+    "bgtools_code": null,
+    "@version": "1",
+    "reject": null,
+    "clicks": 0,
+    "elasticsearch_index": "delivered-2025-05-14",
+    "tags": [],
+    "resends": [],
+    "subject": "Latest Updates from Exploring Economics",
+    "log_classification": "sensitive",
+    "smtp_events": [
+      {
+        "diag": "250 2.0.0 Ok: queued as C8B3F1585",
+        "source_ip": "198.2.179.22",
+        "destination_ip": "185.15.192.57",
+        "ts": 1747209789,
+        "type": "sent",
+        "size": 67696
+      }
+    ],
+    "email": "g.leo@plurale-oekonomik.de",
+    "ts": 1747209787,
+    "subaccount": null,
+    "_id": "54f84e3733944e8e9b2dc812748687e6",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "ts": 1747209786,
+    "tags": [],
+    "log_classification": "sensitive",
+    "clicks": 0,
+    "@timestamp": "2025-05-14T08:07:14.751735984Z",
+    "reject": null,
+    "document_id": "31261772.cbebfaade7fe4c368eb73a6a9eff3be4",
+    "opens": 0,
+    "smtp_events": [
+      {
+        "ts": 1747209787,
+        "destination_ip": "185.15.192.57",
+        "source_ip": "198.2.179.22",
+        "diag": "250 2.0.0 Ok: queued as 4993D151A",
+        "type": "sent",
+        "size": 67702
+      }
+    ],
+    "email": "t.velthaus@plurale-oekonomik.de",
+    "resends": [],
+    "elasticsearch_index": "delivered-2025-05-14",
+    "bgtools_code": null,
+    "state": "sent",
+    "subaccount": null,
+    "event": [],
+    "diag": null,
+    "subject": "Latest Updates from Exploring Economics",
+    "@version": "1",
+    "_id": "cbebfaade7fe4c368eb73a6a9eff3be4",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "ts": 1747209785,
+    "tags": [],
+    "log_classification": "sensitive",
+    "clicks": 0,
+    "@timestamp": "2025-05-14T08:07:13.616528814Z",
+    "reject": null,
+    "document_id": "31261772.14fb88d261d340848bef432759f6b82e",
+    "opens": 0,
+    "smtp_events": [
+      {
+        "ts": 1747209787,
+        "destination_ip": "192.33.93.97",
+        "source_ip": "198.2.179.22",
+        "diag": "250 OK",
+        "type": "sent",
+        "size": 56511
+      }
+    ],
+    "email": "sitzhfiwpcdd1@infsec-server.inf.ethz.ch",
+    "resends": [],
+    "elasticsearch_index": "delivered-2025-05-14",
+    "bgtools_code": null,
+    "state": "sent",
+    "subaccount": null,
+    "event": [],
+    "diag": null,
+    "subject": "Latest Updates from Exploring Economics",
+    "@version": "1",
+    "_id": "14fb88d261d340848bef432759f6b82e",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "opens": 0,
+    "event": [],
+    "log_classification": "sensitive",
+    "clicks": 0,
+    "document_id": "31261772.19bc61d058d74e4698228973625a57fa",
+    "tags": [],
+    "@version": "1",
+    "subject": "Latest Updates from Exploring Economics",
+    "ts": 1747209784,
+    "@timestamp": "2025-05-14T08:07:09.322493528Z",
+    "smtp_events": [
+      {
+        "source_ip": "198.2.187.22",
+        "destination_ip": "185.15.192.56",
+        "diag": "250 2.0.0 Ok: queued as 714ED3013CD",
+        "ts": 1747209786,
+        "type": "sent",
+        "size": 67705
+      }
+    ],
+    "diag": null,
+    "state": "sent",
+    "resends": [],
+    "reject": null,
+    "elasticsearch_index": "delivered-2025-05-14",
+    "email": "j.senner@plurale-oekonomik.de",
+    "subaccount": null,
+    "bgtools_code": null,
+    "_id": "19bc61d058d74e4698228973625a57fa",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "resends": [],
+    "clicks": 0,
+    "subaccount": null,
+    "reject": null,
+    "bgtools_code": null,
+    "@version": "1",
+    "ts": 1747209783,
+    "log_classification": "sensitive",
+    "document_id": "31261772.71831d87988c4dbca13e8743d52a68d6",
+    "email": "d.obst@plurale-oekonomik.de",
+    "opens": 0,
+    "@timestamp": "2025-05-14T08:07:04.200873895Z",
+    "state": "sent",
+    "diag": null,
+    "tags": [],
+    "event": [],
+    "smtp_events": [
+      {
+        "source_ip": "198.2.187.22",
+        "destination_ip": "185.15.192.57",
+        "ts": 1747209785,
+        "diag": "250 2.0.0 Ok: queued as BA5691527",
+        "type": "sent",
+        "size": 67699
+      }
+    ],
+    "elasticsearch_index": "delivered-2025-05-14",
+    "subject": "Latest Updates from Exploring Economics",
+    "_id": "71831d87988c4dbca13e8743d52a68d6",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "subaccount": null,
+    "email": "orlandosierrao@gmail.com",
+    "event": [],
+    "resends": [],
+    "tags": [],
+    "@timestamp": "2025-05-12T15:35:17.014098478Z",
+    "opens": 1,
+    "document_id": "31261772.cd7d1e81a99a4e9b8f480fb43529be73",
+    "state": "sent",
+    "subject": "Latest Updates from Exploring Economics",
+    "@version": "1",
+    "reject": null,
+    "elasticsearch_index": "delivered-2025-05-12",
+    "bgtools_code": null,
+    "log_classification": "sensitive",
+    "smtp_events": [
+      {
+        "source_ip": "198.2.187.22",
+        "destination_ip": "173.194.219.27",
+        "diag": "250 2.0.0 OK  1747037763 3f1490d57ef6-e78fd7bb119si6404692276.572 - gsmtp",
+        "ts": 1747037763,
+        "type": "sent",
+        "size": 74024
+      }
+    ],
+    "clicks": 0,
+    "diag": null,
+    "ts": 1747037762,
+    "_id": "cd7d1e81a99a4e9b8f480fb43529be73",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ip": "66.249.83.107",
+        "location": "California, US",
+        "ua": null,
+        "ts": 1747063525
+      }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "email": "nbessis@gmail.com",
+    "opens": 3,
+    "subject": "Latest Updates from Exploring Economics",
+    "diag": null,
+    "event": [],
+    "tags": [],
+    "subaccount": null,
+    "bgtools_code": null,
+    "document_id": "31261772.41cebc91d810471fa41b68532c680d07",
+    "resends": [],
+    "state": "sent",
+    "reject": null,
+    "smtp_events": [
+      {
+        "type": "sent",
+        "source_ip": "198.2.179.22",
+        "ts": 1747037762,
+        "diag": "250 2.0.0 OK  1747037762 00721157ae682-70a3d9a21efsi66227967b3.357 - gsmtp",
+        "size": 74010,
+        "destination_ip": "142.251.15.26"
+      }
+    ],
+    "elasticsearch_index": "delivered-2025-05-12",
+    "log_classification": "sensitive",
+    "@timestamp": "2025-05-13T08:59:50.911472380Z",
+    "clicks": 0,
+    "ts": 1747037761,
+    "@version": "1",
+    "_id": "41cebc91d810471fa41b68532c680d07",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ip": "77.69.109.56",
+        "ts": 1747040176,
+        "ua": null,
+        "location": "Thessaloniki, GR"
+      },
+      {
+        "ip": "77.69.109.56",
+        "ts": 1747040159,
+        "ua": null,
+        "location": "Thessaloniki, GR"
+      },
+      {
+        "ip": "77.69.109.56",
+        "ts": 1747126170,
+        "ua": null,
+        "location": "Thessaloniki, GR"
+      }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "@timestamp": "2025-05-12T10:59:24.347504408Z",
+    "@version": "1",
+    "tags": [],
+    "state": "sent",
+    "document_id": "31261772.d3c6169793424045ab342ab34b7f73ef",
+    "smtp_events": [
+      {
+        "source_ip": "198.2.179.22",
+        "destination_ip": "64.233.176.26",
+        "ts": 1747037760,
+        "type": "sent",
+        "diag": "250 2.0.0 OK  1747037760 3f1490d57ef6-e78fd7c948esi6579688276.589 - gsmtp",
+        "size": 68563
+      }
+    ],
+    "bgtools_code": null,
+    "subject": "Latest Updates from Exploring Economics",
+    "clicks": 1,
+    "diag": null,
+    "log_classification": "sensitive",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "opens": 3,
+    "subaccount": null,
+    "email": "pietro.attadio@sciencespo.fr",
+    "reject": null,
+    "ts": 1747037760,
+    "event": [],
+    "resends": [],
+    "_id": "d3c6169793424045ab342ab34b7f73ef",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ts": 1747041357,
+        "ip": "66.249.93.38",
+        "location": "California, US",
+        "ua": null
+      },
+      {
+        "ts": 1747044584,
+        "ip": "66.249.93.38",
+        "location": "California, US",
+        "ua": null
+      },
+      {
+        "ts": 1747047095,
+        "ip": "66.249.81.132",
+        "location": "California, US",
+        "ua": null
+      }
+    ],
+    "clicks_detail": [
+      {
+        "ts": 1747047186,
+        "ip": "185.107.56.150",
+        "location": null,
+        "url": "https:\/\/www.exploring-economics.org\/en\/discover\/towards-a-socio-ecological-transformation-of-the-economy\/",
+        "ua": "Windows\/Windows\/Firefox\/Firefox 137.0"
+      }
+    ]
+  },
+  {
+    "resends": [],
+    "reject": null,
+    "@version": "1",
+    "clicks": 0,
+    "event": [],
+    "smtp_events": [
+      {
+        "destination_ip": "173.194.219.27",
+        "diag": "250 2.0.0 OK  1747037761 3f1490d57ef6-e78fd5bbbfdsi7961517276.17 - gsmtp",
+        "size": 74045,
+        "source_ip": "198.2.187.22",
+        "type": "sent",
+        "ts": 1747037761
+      }
+    ],
+    "@timestamp": "2025-05-12T08:20:11.001107861Z",
+    "tags": [],
+    "document_id": "31261772.1cdecebebed043699c10b501c6f78d41",
+    "diag": null,
+    "log_classification": "sensitive",
+    "email": "james.miraflor@gmail.com",
+    "subaccount": null,
+    "subject": "Latest Updates from Exploring Economics",
+    "state": "sent",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "ts": 1747037760,
+    "bgtools_code": null,
+    "opens": 0,
+    "_id": "1cdecebebed043699c10b501c6f78d41",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "document_id": "31261772.34cb4e8edcd84132b3963b000e6c893a",
+    "@timestamp": "2025-05-12T09:04:25.938251987Z",
+    "tags": [],
+    "state": "sent",
+    "resends": [],
+    "ts": 1747037759,
+    "@version": "1",
+    "smtp_events": [
+      {
+        "size": 62977,
+        "diag": "250 2.0.0 OK  1747037759 00721157ae682-70a3d7e71e0si29804157b3.64 - gsmtp",
+        "source_ip": "198.2.179.22",
+        "ts": 1747037759,
+        "type": "sent",
+        "destination_ip": "173.194.219.27"
+      }
+    ],
+    "opens": 1,
+    "reject": null,
+    "diag": null,
+    "subaccount": null,
+    "subject": "Latest Updates from Exploring Economics",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "event": [],
+    "bgtools_code": null,
+    "clicks": 0,
+    "log_classification": "sensitive",
+    "email": "molikopule@gmail.com",
+    "_id": "34cb4e8edcd84132b3963b000e6c893a",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "location": "California, US",
+        "ts": 1747040106,
+        "ip": "66.249.93.38",
+        "ua": null
+      }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "elasticsearch_index": "delivered-2025-05-12",
+    "opens": 4,
+    "@version": "1",
+    "subject": "Latest Updates from Exploring Economics",
+    "email": "andresardilab2007@gmail.com",
+    "subaccount": null,
+    "diag": null,
+    "document_id": "31261772.ca8ba2a545ea443a9ec03e2ba09ef0b4",
+    "ts": 1747037758,
+    "smtp_events": [
+      {
+        "size": 68519,
+        "source_ip": "198.2.179.22",
+        "ts": 1747037759,
+        "destination_ip": "142.251.15.26",
+        "type": "sent",
+        "diag": "250 2.0.0 OK  1747037759 00721157ae682-70a3d92806bsi69829707b3.224 - gsmtp"
+      }
+    ],
+    "log_classification": "sensitive",
+    "state": "sent",
+    "clicks": 0,
+    "resends": [],
+    "@timestamp": "2025-05-13T00:18:40.636249435Z",
+    "event": [],
+    "tags": [],
+    "reject": null,
+    "bgtools_code": null,
+    "_id": "ca8ba2a545ea443a9ec03e2ba09ef0b4",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ip": "74.125.210.37",
+        "ts": 1747047067,
+        "location": "California, US",
+        "ua": null
+      },
+      {
+        "ip": "66.249.83.97",
+        "ts": 1747058158,
+        "location": "California, US",
+        "ua": null
+      },
+      { "ip": "104.28.92.34", "ts": 1747093815, "location": null, "ua": null },
+      { "ip": "104.28.92.34", "ts": 1747094945, "location": null, "ua": null }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "email": "nicola.reitz@web.de",
+    "tags": [],
+    "bgtools_code": null,
+    "document_id": "31261772.ee8f6d1dffe541e3aa8da59c032f8d60",
+    "@version": "1",
+    "opens": 2,
+    "event": [],
+    "subaccount": null,
+    "resends": [],
+    "state": "sent",
+    "ts": 1747037757,
+    "diag": null,
+    "clicks": 0,
+    "log_classification": "sensitive",
+    "subject": "Latest Updates from Exploring Economics",
+    "smtp_events": [
+      {
+        "destination_ip": "212.227.15.17",
+        "diag": "250 Requested mail action okay, completed: id=1MnGy0-1ufiJu3a8y-00jF0H",
+        "type": "sent",
+        "size": 57097,
+        "source_ip": "198.2.187.22",
+        "ts": 1747037759
+      }
+    ],
+    "reject": null,
+    "elasticsearch_index": "delivered-2025-05-12",
+    "@timestamp": "2025-05-17T13:57:54.131914112Z",
+    "_id": "ee8f6d1dffe541e3aa8da59c032f8d60",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ua": null,
+        "location": "Massachusetts, US",
+        "ip": "172.225.240.75",
+        "ts": 1747051194
+      },
+      {
+        "ua": null,
+        "location": "Massachusetts, US",
+        "ip": "172.225.190.225",
+        "ts": 1747489838
+      }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "tags": [],
+    "subject": "Latest Updates from Exploring Economics",
+    "event": [],
+    "ts": 1747037756,
+    "log_classification": "sensitive",
+    "@timestamp": "2025-05-13T07:20:52.233386771Z",
+    "diag": null,
+    "bgtools_code": null,
+    "elasticsearch_index": "delivered-2025-05-12",
+    "document_id": "31261772.503583d158a0475981cb3330466d2882",
+    "email": "lepauwo@gmail.com",
+    "subaccount": null,
+    "resends": [],
+    "smtp_events": [
+      {
+        "size": 85064,
+        "ts": 1747037757,
+        "source_ip": "198.2.187.22",
+        "diag": "250 2.0.0 OK  1747037757 00721157ae682-70a3d9a41f6si67343647b3.393 - gsmtp",
+        "type": "sent",
+        "destination_ip": "142.251.15.26"
+      }
+    ],
+    "state": "sent",
+    "@version": "1",
+    "clicks": 0,
+    "opens": 4,
+    "reject": null,
+    "_id": "503583d158a0475981cb3330466d2882",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ip": "66.249.81.134",
+        "ua": null,
+        "ts": 1747044259,
+        "location": "California, US"
+      },
+      {
+        "ip": "66.249.81.134",
+        "ua": null,
+        "ts": 1747044260,
+        "location": "California, US"
+      },
+      { "ip": "104.28.64.19", "ua": null, "ts": 1747078739, "location": null },
+      { "ip": "104.28.64.22", "ua": null, "ts": 1747120213, "location": null }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "log_classification": "sensitive",
+    "subject": "Latest Updates from Exploring Economics",
+    "event": [],
+    "reject": null,
+    "opens": 1,
+    "resends": [],
+    "tags": [],
+    "clicks": 0,
+    "smtp_events": [
+      {
+        "size": 85056,
+        "destination_ip": "52.101.68.11",
+        "diag": "250 2.6.0 <31261772.20250512081556.6821ae3c1dc562.90376492@mail187-22.suw11.mandrillapp.com> [InternalId=104646878177991, Hostname=AS2P194MB2012.EURP194.PROD.OUTLOOK.COM] 96254 bytes in 0.206, 454.834 KB\/sec Queued mail for delivery -> 250 2.1.5",
+        "ts": 1747037758,
+        "type": "sent",
+        "source_ip": "198.2.187.22"
+      }
+    ],
+    "diag": null,
+    "elasticsearch_index": "delivered-2025-05-12",
+    "document_id": "31261772.f45cc6cd121841d8b7dbf2f9d256c502",
+    "@timestamp": "2025-05-12T12:39:24.978862673Z",
+    "email": "manthony@live.de",
+    "bgtools_code": null,
+    "subaccount": null,
+    "@version": "1",
+    "state": "sent",
+    "ts": 1747037756,
+    "_id": "f45cc6cd121841d8b7dbf2f9d256c502",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ua": "Mobile\/iOS\/iOS\/Mobile Safari\/Mobile Safari",
+        "ts": 1747052852,
+        "ip": "84.179.91.6",
+        "location": "Sachsen, DE"
+      }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "clicks": 0,
+    "log_classification": "sensitive",
+    "diag": null,
+    "document_id": "31261772.a9d1471885554186a0dc105b014cec04",
+    "subject": "Latest Updates from Exploring Economics",
+    "@timestamp": "2025-05-12T08:19:56.470766636Z",
+    "email": "l.sonntag@plurale-oekonomik.de",
+    "bgtools_code": null,
+    "smtp_events": [
+      {
+        "ts": 1747037756,
+        "destination_ip": "185.15.192.56",
+        "source_ip": "198.2.179.22",
+        "type": "sent",
+        "diag": "250 2.0.0 Ok: queued as 4CF5E300DA9",
+        "size": 85087
+      }
+    ],
+    "@version": "1",
+    "reject": null,
+    "opens": 0,
+    "event": [],
+    "ts": 1747037755,
+    "state": "sent",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "resends": [],
+    "subaccount": null,
+    "tags": [],
+    "_id": "a9d1471885554186a0dc105b014cec04",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "tags": [],
+    "smtp_events": [
+      {
+        "size": 74052,
+        "destination_ip": "173.194.219.27",
+        "ts": 1747037755,
+        "diag": "250 2.0.0 OK  1747037755 3f1490d57ef6-e7a2dd7bd3bsi3407358276.140 - gsmtp",
+        "type": "sent",
+        "source_ip": "198.2.187.22"
+      }
+    ],
+    "resends": [],
+    "elasticsearch_index": "delivered-2025-05-12",
+    "email": "alexander.chernyshev1996@gmail.com",
+    "reject": null,
+    "subject": "Latest Updates from Exploring Economics",
+    "state": "sent",
+    "opens": 0,
+    "event": [],
+    "ts": 1747037754,
+    "document_id": "31261772.9cb521ebf8f849b8b5df2db6bdf2eea6",
+    "@timestamp": "2025-05-12T08:20:18.200469455Z",
+    "clicks": 0,
+    "subaccount": null,
+    "diag": null,
+    "@version": "1",
+    "bgtools_code": null,
+    "log_classification": "sensitive",
+    "_id": "9cb521ebf8f849b8b5df2db6bdf2eea6",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "bgtools_code": null,
+    "diag": null,
+    "document_id": "31261772.01ceb284faf7406099df8a5fda4a8911",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "@version": "1",
+    "tags": [],
+    "event": [],
+    "clicks": 0,
+    "opens": 3,
+    "subaccount": null,
+    "log_classification": "sensitive",
+    "email": "Helen@milne.pl",
+    "smtp_events": [
+      {
+        "source_ip": "198.2.187.22",
+        "diag": "250 2.6.0 <31261772.20250512081553.6821ae398a8834.41487220@mail187-22.suw11.mandrillapp.com> [InternalId=39058432600640, Hostname=DU4PR08MB11079.eurprd08.prod.outlook.com] 77061 bytes in 0.143, 522.621 KB\/sec Queued mail for delivery",
+        "ts": 1747037755,
+        "destination_ip": "52.101.68.27",
+        "type": "sent",
+        "size": 62963
+      }
+    ],
+    "ts": 1747037753,
+    "subject": "Latest Updates from Exploring Economics",
+    "resends": [],
+    "state": "sent",
+    "reject": null,
+    "@timestamp": "2025-05-12T22:21:02.103390306Z",
+    "_id": "01ceb284faf7406099df8a5fda4a8911",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      { "ts": 1747059073, "ip": "104.28.129.36", "ua": null, "location": null },
+      {
+        "ts": 1747078083,
+        "ip": "172.225.41.108",
+        "ua": null,
+        "location": "Massachusetts, US"
+      },
+      {
+        "ts": 1747088189,
+        "ip": "172.225.188.76",
+        "ua": null,
+        "location": "Massachusetts, US"
+      }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "@timestamp": "2025-05-15T09:14:36.612690794Z",
+    "bgtools_code": null,
+    "log_classification": "sensitive",
+    "smtp_events": [
+      {
+        "ts": 1747037753,
+        "destination_ip": "173.194.219.27",
+        "diag": "250 2.0.0 OK  1747037753 3f1490d57ef6-e7a3d5a8d66si3294422276.171 - gsmtp",
+        "source_ip": "198.2.179.22",
+        "type": "sent",
+        "size": 74016
+      }
+    ],
+    "resends": [],
+    "state": "sent",
+    "diag": null,
+    "clicks": 1,
+    "ts": 1747037752,
+    "subject": "Latest Updates from Exploring Economics",
+    "@version": "1",
+    "reject": null,
+    "subaccount": null,
+    "tags": [],
+    "email": "ajmmanzoni@gmail.com",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "event": [],
+    "document_id": "31261772.26e8c4f3650f43dd8d1d30f4e827df27",
+    "opens": 5,
+    "_id": "26e8c4f3650f43dd8d1d30f4e827df27",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ts": 1747299952,
+        "ua": "Windows\/Windows\/Chrome\/Chrome 136.0.0.0",
+        "location": "Lisboa, PT",
+        "ip": "82.154.25.90"
+      },
+      {
+        "ts": 1747299930,
+        "location": "California, US",
+        "ua": null,
+        "ip": "66.249.93.38"
+      },
+      {
+        "ts": 1747299960,
+        "location": "California, US",
+        "ua": null,
+        "ip": "66.249.93.38"
+      },
+      {
+        "ts": 1747300050,
+        "location": "California, US",
+        "ua": null,
+        "ip": "66.249.93.38"
+      },
+      {
+        "ts": 1747299952,
+        "location": "California, US",
+        "ua": null,
+        "ip": "66.249.93.38"
+      }
+    ],
+    "clicks_detail": [
+      {
+        "ts": 1747299952,
+        "url": "https:\/\/www.exploring-economics.org\/en\/discover\/on-democratic-economic-planning-and-macroeconomic-transformation\/",
+        "location": "Lisboa, PT",
+        "ua": "Windows\/Windows\/Chrome\/Chrome 136.0.0.0",
+        "ip": "82.154.25.90"
+      }
+    ]
+  },
+  {
+    "bgtools_code": null,
+    "@timestamp": "2025-05-12T09:03:30.081738243Z",
+    "@version": "1",
+    "event": [],
+    "subject": "Latest Updates from Exploring Economics",
+    "subaccount": null,
+    "state": "sent",
+    "ts": 1747037751,
+    "email": "robvdduim@gmail.com",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "reject": null,
+    "diag": null,
+    "log_classification": "sensitive",
+    "smtp_events": [
+      {
+        "diag": "250 2.0.0 OK  1747037752 3f1490d57ef6-e79112f963bsi4499129276.291 - gsmtp",
+        "ts": 1747037752,
+        "destination_ip": "142.251.15.26",
+        "source_ip": "198.2.179.22",
+        "type": "sent",
+        "size": 85064
+      }
+    ],
+    "clicks": 0,
+    "resends": [],
+    "document_id": "31261772.b847965ac2904184beeefb4f97dff5d9",
+    "tags": [],
+    "opens": 2,
+    "_id": "b847965ac2904184beeefb4f97dff5d9",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "location": "California, US",
+        "ua": null,
+        "ts": 1747040045,
+        "ip": "66.249.81.134"
+      },
+      {
+        "location": "California, US",
+        "ua": null,
+        "ts": 1747040023,
+        "ip": "66.249.81.132"
+      }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "clicks": 0,
+    "document_id": "31261772.3cffa96bba4d4d218b550ca9cc55aa82",
+    "event": [],
+    "elasticsearch_index": "delivered-2025-05-12",
+    "log_classification": "sensitive",
+    "state": "sent",
+    "@version": "1",
+    "reject": null,
+    "smtp_events": [
+      {
+        "ts": 1747037751,
+        "source_ip": "198.2.179.22",
+        "diag": "250 2.0.0 OK  1747037751 3f1490d57ef6-e78fd743a57si7982235276.382 - gsmtp",
+        "destination_ip": "173.194.219.27",
+        "type": "sent",
+        "size": 85059
+      }
+    ],
+    "bgtools_code": null,
+    "@timestamp": "2025-05-12T14:03:09.954276751Z",
+    "subject": "Latest Updates from Exploring Economics",
+    "tags": [],
+    "ts": 1747037750,
+    "email": "p.huettisch@gmail.com",
+    "diag": null,
+    "resends": [],
+    "subaccount": null,
+    "opens": 2,
+    "_id": "3cffa96bba4d4d218b550ca9cc55aa82",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ts": 1747037760,
+        "ip": "66.249.81.134",
+        "location": "California, US",
+        "ua": null
+      },
+      { "ts": 1747058291, "ip": "104.28.62.43", "location": null, "ua": null }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "subaccount": null,
+    "subject": "Latest Updates from Exploring Economics",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "document_id": "31261772.0d070b1cb86540b8afa856fbc9ae0b2b",
+    "clicks": 0,
+    "resends": [],
+    "ts": 1747037750,
+    "opens": 1,
+    "state": "sent",
+    "@version": "1",
+    "event": [],
+    "@timestamp": "2025-05-12T10:26:25.858377889Z",
+    "tags": [],
+    "bgtools_code": null,
+    "diag": null,
+    "email": "gabriel.porcile1@gmail.com",
+    "smtp_events": [
+      {
+        "source_ip": "198.2.179.22",
+        "destination_ip": "173.194.219.27",
+        "diag": "250 2.0.0 OK  1747037750 3f1490d57ef6-e7a3d5a8d66si3294422276.171 - gsmtp",
+        "ts": 1747037750,
+        "type": "sent",
+        "size": 74027
+      }
+    ],
+    "reject": null,
+    "log_classification": "sensitive",
+    "_id": "0d070b1cb86540b8afa856fbc9ae0b2b",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ts": 1747044982,
+        "location": "California, US",
+        "ip": "74.125.210.36",
+        "ua": null
+      }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "@timestamp": "2025-05-12T08:19:57.668039916Z",
+    "resends": [],
+    "tags": [],
+    "@version": "1",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "state": "sent",
+    "subaccount": null,
+    "bgtools_code": null,
+    "opens": 0,
+    "log_classification": "sensitive",
+    "ts": 1747037749,
+    "diag": null,
+    "document_id": "31261772.68818a0666f84f66a925c5fd386fd6a9",
+    "smtp_events": [
+      {
+        "destination_ip": "142.251.15.26",
+        "diag": "250 2.0.0 OK  1747037749 3f1490d57ef6-e78fd5bd0easi6619915276.50 - gsmtp",
+        "source_ip": "198.2.179.22",
+        "type": "sent",
+        "size": 74028,
+        "ts": 1747037749
+      }
+    ],
+    "reject": null,
+    "email": "jpradziunas@gmail.com",
+    "event": [],
+    "subject": "Latest Updates from Exploring Economics",
+    "clicks": 0,
+    "_id": "68818a0666f84f66a925c5fd386fd6a9",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "email": "cgn@azc.uam.mx",
+    "opens": 0,
+    "log_classification": "sensitive",
+    "subject": "Latest Updates from Exploring Economics",
+    "document_id": "31261772.612e482bfbd44578a36f225046dca286",
+    "diag": null,
+    "state": "sent",
+    "subaccount": null,
+    "bgtools_code": null,
+    "event": [],
+    "tags": [],
+    "resends": [],
+    "reject": null,
+    "smtp_events": [
+      {
+        "type": "sent",
+        "source_ip": "198.2.187.22",
+        "ts": 1747037749,
+        "diag": "250 2.0.0 OK  1747037749 3f1490d57ef6-e7910212146si5514931276.587 - gsmtp",
+        "size": 74016,
+        "destination_ip": "173.194.219.27"
+      }
+    ],
+    "@version": "1",
+    "@timestamp": "2025-05-12T08:20:06.952187577Z",
+    "ts": 1747037748,
+    "clicks": 0,
+    "elasticsearch_index": "delivered-2025-05-12",
+    "_id": "612e482bfbd44578a36f225046dca286",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "resends": [],
+    "reject": null,
+    "@version": "1",
+    "clicks": 0,
+    "event": [],
+    "smtp_events": [
+      {
+        "destination_ip": "52.101.68.24",
+        "diag": "250 2.6.0 <31261772.20250512081547.6821ae33981444.32424747@mail187-22.suw11.mandrillapp.com> [InternalId=39376260181814, Hostname=VI0P190MB2045.EURP190.PROD.OUTLOOK.COM] 97550 bytes in 0.182, 522.811 KB\/sec Queued mail for delivery -> 250 2.1.5",
+        "size": 85072,
+        "source_ip": "198.2.187.22",
+        "type": "sent",
+        "ts": 1747037749
+      }
+    ],
+    "@timestamp": "2025-05-12T11:14:41.191846434Z",
+    "tags": [],
+    "document_id": "31261772.981cb6addaa64ee680d998bdaff5a305",
+    "diag": null,
+    "log_classification": "sensitive",
+    "email": "anna.mayturay@outlook.com",
+    "subaccount": null,
+    "subject": "Latest Updates from Exploring Economics",
+    "state": "sent",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "ts": 1747037747,
+    "bgtools_code": null,
+    "opens": 2,
+    "_id": "981cb6addaa64ee680d998bdaff5a305",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ua": "Linux\/Chrome OS\/Chrome\/Chrome 134.0.0.0",
+        "ip": "82.132.234.180",
+        "location": "England, GB",
+        "ts": 1747047854
+      },
+      {
+        "ua": "Linux\/Chrome OS\/Chrome\/Chrome 134.0.0.0",
+        "ip": "82.132.234.180",
+        "location": "England, GB",
+        "ts": 1747047860
+      }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "tags": [],
+    "smtp_events": [
+      {
+        "size": 85076,
+        "destination_ip": "212.227.17.8",
+        "ts": 1747037748,
+        "diag": "250 Requested mail action okay, completed: id=1MTf5L-1uQEpt08Lt-00I2qX",
+        "type": "sent",
+        "source_ip": "198.2.187.22"
+      }
+    ],
+    "resends": [],
+    "elasticsearch_index": "delivered-2025-05-12",
+    "email": "sebastiandrue@web.de",
+    "reject": null,
+    "subject": "Latest Updates from Exploring Economics",
+    "state": "sent",
+    "opens": 3,
+    "event": [],
+    "ts": 1747037746,
+    "document_id": "31261772.4e6adf9e3f59490fa5f1c037eabf8bb7",
+    "@timestamp": "2025-05-12T14:35:28.673522039Z",
+    "clicks": 3,
+    "subaccount": null,
+    "diag": null,
+    "@version": "1",
+    "bgtools_code": null,
+    "log_classification": "sensitive",
+    "_id": "4e6adf9e3f59490fa5f1c037eabf8bb7",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ts": 1747060086,
+        "ip": "193.175.2.17",
+        "location": "Nordrhein-westfalen, DE",
+        "ua": "OS X\/OS X\/Safari\/Safari 17.5"
+      },
+      {
+        "ts": 1747060014,
+        "ip": "193.175.2.17",
+        "location": "Nordrhein-westfalen, DE",
+        "ua": "OS X\/OS X\/Safari\/Safari 17.5"
+      },
+      {
+        "ts": 1747060100,
+        "ip": "193.175.2.17",
+        "location": "Nordrhein-westfalen, DE",
+        "ua": "OS X\/OS X\/Safari\/Safari 17.5"
+      }
+    ],
+    "clicks_detail": [
+      {
+        "ts": 1747060086,
+        "url": "https:\/\/www.exploring-economics.org\/en\/discover\/fiscal-austerity-vs-expansionary-fiscal-policy\/",
+        "ip": "193.175.2.17",
+        "location": "Nordrhein-westfalen, DE",
+        "ua": "OS X\/OS X\/Safari\/Safari 17.5"
+      },
+      {
+        "ts": 1747060084,
+        "url": "https:\/\/www.exploring-economics.org\/en\/discover\/towards-a-socio-ecological-transformation-of-the-economy\/",
+        "ip": "193.175.2.17",
+        "location": "Nordrhein-westfalen, DE",
+        "ua": "OS X\/OS X\/Safari\/Safari 17.5"
+      },
+      {
+        "ts": 1747060204,
+        "url": "https:\/\/www.exploring-economics.org\/en\/discover\/on-democratic-economic-planning-and-macroeconomic-transformation\/",
+        "ip": "193.175.2.17",
+        "location": "Nordrhein-westfalen, DE",
+        "ua": "OS X\/OS X\/Safari\/Safari 17.5"
+      }
+    ]
+  },
+  {
+    "resends": [],
+    "email": "sakshiksharma666@gmail.com",
+    "clicks": 0,
+    "bgtools_code": null,
+    "subject": "Latest Updates from Exploring Economics",
+    "event": [],
+    "state": "sent",
+    "@timestamp": "2025-05-12T08:20:08.887393647Z",
+    "subaccount": null,
+    "smtp_events": [
+      {
+        "diag": "250 2.0.0 OK  1747037746 00721157ae682-70a3d7ecdbbsi86277067b3.48 - gsmtp",
+        "destination_ip": "173.194.219.27",
+        "source_ip": "198.2.187.22",
+        "ts": 1747037746,
+        "type": "sent",
+        "size": 74023
+      }
+    ],
+    "ts": 1747037746,
+    "document_id": "31261772.755a53c765a54322bf7b72a2e6fb1c0c",
+    "tags": [],
+    "elasticsearch_index": "delivered-2025-05-12",
+    "diag": null,
+    "opens": 0,
+    "reject": null,
+    "@version": "1",
+    "log_classification": "sensitive",
+    "_id": "755a53c765a54322bf7b72a2e6fb1c0c",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "document_id": "31261772.a9c68c39ed1941c3a32ac431961443e8",
+    "@timestamp": "2025-05-12T08:20:05.344826301Z",
+    "tags": [],
+    "state": "sent",
+    "resends": [],
+    "ts": 1747037745,
+    "@version": "1",
+    "smtp_events": [
+      {
+        "size": 74022,
+        "diag": "250 2.0.0 OK  1747037745 00721157ae682-70a3d9a6d27si64901567b3.394 - gsmtp",
+        "source_ip": "198.2.187.22",
+        "ts": 1747037745,
+        "type": "sent",
+        "destination_ip": "173.194.219.27"
+      }
+    ],
+    "opens": 0,
+    "reject": null,
+    "diag": null,
+    "subaccount": null,
+    "subject": "Latest Updates from Exploring Economics",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "event": [],
+    "bgtools_code": null,
+    "clicks": 0,
+    "log_classification": "sensitive",
+    "email": "f.lauterslager@gmail.com",
+    "_id": "a9c68c39ed1941c3a32ac431961443e8",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "bgtools_code": null,
+    "@timestamp": "2025-05-12T09:03:24.965451534Z",
+    "@version": "1",
+    "event": [],
+    "subject": "Latest Updates from Exploring Economics",
+    "subaccount": null,
+    "state": "sent",
+    "ts": 1747037744,
+    "email": "alyssamayara.chihi@gmail.com",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "reject": null,
+    "diag": null,
+    "log_classification": "sensitive",
+    "smtp_events": [
+      {
+        "diag": "250 2.0.0 OK  1747037745 3f1490d57ef6-e7acfce5f09si50665276.121 - gsmtp",
+        "ts": 1747037745,
+        "destination_ip": "142.251.15.26",
+        "source_ip": "198.2.179.22",
+        "type": "sent",
+        "size": 74035
+      }
+    ],
+    "clicks": 0,
+    "resends": [],
+    "document_id": "31261772.c81c4d3dda9b40429965405ce1edcd87",
+    "tags": [],
+    "opens": 1,
+    "_id": "c81c4d3dda9b40429965405ce1edcd87",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "location": "California, US",
+        "ua": null,
+        "ts": 1747040175,
+        "ip": "66.249.81.132"
+      }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "clicks": 0,
+    "log_classification": "sensitive",
+    "diag": null,
+    "document_id": "31261772.a32cdc1cd6d44a1bb178ef9f8e20c6ac",
+    "subject": "Latest Updates from Exploring Economics",
+    "@timestamp": "2025-05-12T09:52:20.076049692Z",
+    "email": "jpaoling@gmail.com",
+    "bgtools_code": null,
+    "smtp_events": [
+      {
+        "ts": 1747037744,
+        "destination_ip": "173.194.219.27",
+        "source_ip": "198.2.179.22",
+        "type": "sent",
+        "diag": "250 2.0.0 OK  1747037744 00721157ae682-70a3d9dd61csi70607577b3.422 - gsmtp",
+        "size": 79170
+      }
+    ],
+    "@version": "1",
+    "reject": null,
+    "opens": 1,
+    "event": [],
+    "ts": 1747037743,
+    "state": "sent",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "resends": [],
+    "subaccount": null,
+    "tags": [],
+    "_id": "a32cdc1cd6d44a1bb178ef9f8e20c6ac",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ts": 1747043179,
+        "ip": "66.249.81.132",
+        "location": "California, US",
+        "ua": null
+      }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "resends": [],
+    "event": [],
+    "tags": [],
+    "smtp_events": [
+      {
+        "size": 74023,
+        "diag": "250 2.0.0 OK  1747037742 3f1490d57ef6-e78fd749346si6591336276.376 - gsmtp",
+        "destination_ip": "173.194.219.27",
+        "ts": 1747037742,
+        "type": "sent",
+        "source_ip": "198.2.187.22"
+      }
+    ],
+    "reject": null,
+    "clicks": 0,
+    "state": "sent",
+    "log_classification": "sensitive",
+    "ts": 1747037742,
+    "diag": null,
+    "@timestamp": "2025-05-12T08:20:13.305617782Z",
+    "@version": "1",
+    "document_id": "31261772.7ea88799b7fe42fe8f652512208d8701",
+    "email": "kathunziandress@gmail.com",
+    "subject": "Latest Updates from Exploring Economics",
+    "opens": 0,
+    "subaccount": null,
+    "elasticsearch_index": "delivered-2025-05-12",
+    "bgtools_code": null,
+    "_id": "7ea88799b7fe42fe8f652512208d8701",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "subaccount": null,
+    "subject": "Latest Updates from Exploring Economics",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "document_id": "31261772.0a7665bcfc7e45e297f2a777c882f65c",
+    "clicks": 0,
+    "resends": [],
+    "ts": 1747037742,
+    "opens": 0,
+    "state": "sent",
+    "@version": "1",
+    "event": [],
+    "@timestamp": "2025-05-12T08:20:07.419727855Z",
+    "tags": [],
+    "bgtools_code": null,
+    "diag": null,
+    "email": "cortezr@uabc.edu.mx",
+    "smtp_events": [
+      {
+        "source_ip": "198.2.187.22",
+        "destination_ip": "142.250.9.26",
+        "diag": "250 2.0.0 OK  1747037743 00721157ae682-70a3d9292fasi96237b3.254 - gsmtp",
+        "ts": 1747037743,
+        "type": "sent",
+        "size": 74012
+      }
+    ],
+    "reject": null,
+    "log_classification": "sensitive",
+    "_id": "0a7665bcfc7e45e297f2a777c882f65c",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "event": [],
+    "ts": 1747037741,
+    "elasticsearch_index": "delivered-2025-05-12",
+    "tags": [],
+    "opens": 6,
+    "@timestamp": "2025-05-19T10:00:26.818122181Z",
+    "resends": [],
+    "subject": "Latest Updates from Exploring Economics",
+    "reject": null,
+    "@version": "1",
+    "smtp_events": [
+      {
+        "source_ip": "198.2.187.22",
+        "ts": 1747037741,
+        "destination_ip": "173.194.219.27",
+        "size": 85080,
+        "type": "sent",
+        "diag": "250 2.0.0 OK  1747037741 3f1490d57ef6-e7ab1bfb683si3117734276.115 - gsmtp"
+      }
+    ],
+    "bgtools_code": null,
+    "email": "felixschenkberlin@gmail.com",
+    "subaccount": null,
+    "state": "sent",
+    "clicks": 3,
+    "document_id": "31261772.c13d05bb882b42d2b5cf278368fe9004",
+    "log_classification": "sensitive",
+    "diag": null,
+    "_id": "c13d05bb882b42d2b5cf278368fe9004",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ts": 1747051947,
+        "location": "Berlin, DE",
+        "ua": "Mobile\/Android\/Android\/Android browser\/Android browser 4.0",
+        "ip": "91.64.111.109"
+      },
+      {
+        "ts": 1747053734,
+        "location": "Berlin, DE",
+        "ua": "Mobile\/Android\/Android\/Android browser\/Android browser 4.0",
+        "ip": "91.64.111.109"
+      },
+      {
+        "ts": 1747564813,
+        "location": "Berlin, DE",
+        "ua": null,
+        "ip": "91.64.111.109"
+      },
+      {
+        "ts": 1747599818,
+        "location": "Berlin, DE",
+        "ua": null,
+        "ip": "91.64.111.109"
+      },
+      {
+        "ts": 1747599828,
+        "location": "Berlin, DE",
+        "ua": null,
+        "ip": "91.64.111.109"
+      },
+      {
+        "ts": 1747648247,
+        "location": "Berlin, DE",
+        "ua": null,
+        "ip": "91.64.111.109"
+      }
+    ],
+    "clicks_detail": [
+      {
+        "ts": 1747051957,
+        "location": "Berlin, DE",
+        "ua": "Mobile\/Android\/Android\/Mobile Firefox\/Mobile Firefox Mobile",
+        "url": "https:\/\/www.exploring-economics.org\/en\/discover\/vermoegensungleichheit-in-deutschland\/",
+        "ip": "91.64.111.109"
+      },
+      {
+        "ts": 1747648303,
+        "location": "Berlin, DE",
+        "ua": "Windows\/Windows\/Firefox\/Firefox 138.0",
+        "url": "https:\/\/www.exploring-economics.org\/en\/discover\/on-democratic-economic-planning-and-macroeconomic-transformation\/",
+        "ip": "91.64.111.109"
+      },
+      {
+        "ts": 1747648253,
+        "location": "Berlin, DE",
+        "ua": "Windows\/Windows\/Firefox\/Firefox 138.0",
+        "url": "https:\/\/www.exploring-economics.org\/en\/discover\/towards-a-socio-ecological-transformation-of-the-economy\/",
+        "ip": "91.64.111.109"
+      }
+    ]
+  },
+  {
+    "@timestamp": "2025-05-12T08:20:15.490630105Z",
+    "@version": "1",
+    "tags": [],
+    "state": "sent",
+    "document_id": "31261772.34388e4b17dc4886b142397a01802c63",
+    "smtp_events": [
+      {
+        "source_ip": "198.2.187.22",
+        "destination_ip": "173.194.219.27",
+        "ts": 1747037740,
+        "type": "sent",
+        "diag": "250 2.0.0 OK  1747037740 3f1490d57ef6-e7ab1bfb683si3117734276.115 - gsmtp",
+        "size": 74017
+      }
+    ],
+    "bgtools_code": null,
+    "subject": "Latest Updates from Exploring Economics",
+    "clicks": 0,
+    "diag": null,
+    "log_classification": "sensitive",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "opens": 0,
+    "subaccount": null,
+    "email": "mat.hereman@gmail.com",
+    "reject": null,
+    "ts": 1747037740,
+    "event": [],
+    "resends": [],
+    "_id": "34388e4b17dc4886b142397a01802c63",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "@timestamp": "2025-05-12T08:19:55.719529720Z",
+    "resends": [],
+    "tags": [],
+    "@version": "1",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "state": "sent",
+    "subaccount": null,
+    "bgtools_code": null,
+    "opens": 0,
+    "log_classification": "sensitive",
+    "ts": 1747037739,
+    "diag": null,
+    "document_id": "31261772.2995cf0296124eb18ce4667c1f01f321",
+    "smtp_events": [
+      {
+        "destination_ip": "142.251.15.26",
+        "diag": "250 2.0.0 OK  1747037740 3f1490d57ef6-e78fd61d1a6si6817545276.150 - gsmtp",
+        "source_ip": "198.2.179.22",
+        "type": "sent",
+        "size": 74064,
+        "ts": 1747037740
+      }
+    ],
+    "reject": null,
+    "email": "caveleza1@gmail.com",
+    "event": [],
+    "subject": "Latest Updates from Exploring Economics",
+    "clicks": 0,
+    "_id": "2995cf0296124eb18ce4667c1f01f321",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "@timestamp": "2025-05-12T08:20:18.385818002Z",
+    "resends": [],
+    "document_id": "31261772.13be3d2f8f7e4f5b9eacfe37a0e02fd4",
+    "opens": 0,
+    "log_classification": "sensitive",
+    "subject": "Latest Updates from Exploring Economics",
+    "bgtools_code": null,
+    "diag": null,
+    "@version": "1",
+    "ts": 1747037738,
+    "event": [],
+    "email": "gaboyha@fagro.edu.uy",
+    "smtp_events": [
+      {
+        "diag": "250 2.0.0 OK  1747037739 3f1490d57ef6-e78fd7493ccsi6665177276.396 - gsmtp",
+        "ts": 1747037739,
+        "destination_ip": "64.233.185.27",
+        "source_ip": "198.2.187.22",
+        "type": "sent",
+        "size": 74038
+      }
+    ],
+    "elasticsearch_index": "delivered-2025-05-12",
+    "state": "sent",
+    "subaccount": null,
+    "tags": [],
+    "reject": null,
+    "clicks": 0,
+    "_id": "13be3d2f8f7e4f5b9eacfe37a0e02fd4",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "email": "ronaldbeat@gmail.com",
+    "opens": 1,
+    "log_classification": "sensitive",
+    "subject": "Latest Updates from Exploring Economics",
+    "document_id": "31261772.317c24cb92d949779984ee38f6cb1e1e",
+    "diag": null,
+    "state": "sent",
+    "subaccount": null,
+    "bgtools_code": null,
+    "event": [],
+    "tags": [],
+    "resends": [],
+    "reject": null,
+    "smtp_events": [
+      {
+        "type": "sent",
+        "source_ip": "198.2.179.22",
+        "ts": 1747037737,
+        "diag": "250 2.0.0 OK  1747037737 00721157ae682-70a3d9c9162si39257777b3.413 - gsmtp",
+        "size": 57116,
+        "destination_ip": "142.251.15.26"
+      }
+    ],
+    "@version": "1",
+    "@timestamp": "2025-05-12T16:09:35.579501847Z",
+    "ts": 1747037737,
+    "clicks": 0,
+    "elasticsearch_index": "delivered-2025-05-12",
+    "_id": "317c24cb92d949779984ee38f6cb1e1e",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ts": 1747065757,
+        "location": "California, US",
+        "ua": null,
+        "ip": "66.249.83.107"
+      }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "@version": "1",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "ts": 1747037737,
+    "subaccount": null,
+    "resends": [],
+    "@timestamp": "2025-05-12T19:44:28.429821466Z",
+    "diag": null,
+    "tags": [],
+    "log_classification": "sensitive",
+    "bgtools_code": null,
+    "clicks": 0,
+    "email": "hipolitaufrj@gmail.com",
+    "document_id": "31261772.d0908035921042dca4491e11f7d41f0f",
+    "state": "sent",
+    "event": [],
+    "smtp_events": [
+      {
+        "source_ip": "198.2.179.22",
+        "destination_ip": "173.194.219.27",
+        "diag": "250 2.0.0 OK  1747037738 00721157ae682-70a3d9a3e45si66693247b3.388 - gsmtp",
+        "ts": 1747037738,
+        "type": "sent",
+        "size": 74035
+      }
+    ],
+    "opens": 1,
+    "reject": null,
+    "subject": "Latest Updates from Exploring Economics",
+    "_id": "d0908035921042dca4491e11f7d41f0f",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      { "location": null, "ua": null, "ip": "104.28.63.119", "ts": 1747078323 }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "resends": [],
+    "subject": "Latest Updates from Exploring Economics",
+    "tags": [],
+    "clicks": 1,
+    "reject": null,
+    "diag": null,
+    "state": "sent",
+    "opens": 3,
+    "@version": "1",
+    "event": [],
+    "smtp_events": [
+      {
+        "ts": 1747037736,
+        "destination_ip": "173.194.219.27",
+        "source_ip": "198.2.187.22",
+        "type": "sent",
+        "diag": "250 2.0.0 OK  1747037736 3f1490d57ef6-e78fd749346si6591336276.376 - gsmtp",
+        "size": 62688
+      }
+    ],
+    "email": "arshiyakhanna80@gmail.com",
+    "document_id": "31261772.07e2eddc2752484d9735f79028fbaa16",
+    "ts": 1747037736,
+    "log_classification": "sensitive",
+    "@timestamp": "2025-05-18T12:52:26.402200951Z",
+    "bgtools_code": null,
+    "elasticsearch_index": "delivered-2025-05-12",
+    "subaccount": null,
+    "_id": "07e2eddc2752484d9735f79028fbaa16",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ts": 1747039343,
+        "ua": null,
+        "ip": "74.125.209.37",
+        "location": "Georgia, US"
+      },
+      {
+        "ts": 1747040349,
+        "ua": null,
+        "ip": "74.125.209.36",
+        "location": "Georgia, US"
+      },
+      {
+        "ts": 1747572257,
+        "ua": null,
+        "ip": "146.75.214.0",
+        "location": "-, SE"
+      }
+    ],
+    "clicks_detail": [
+      {
+        "ts": 1747040366,
+        "ua": "Mobile\/iOS\/iOS\/Mobile Safari\/Mobile Safari 17.0",
+        "ip": "42.105.98.77",
+        "url": "https:\/\/www.exploring-economics.org\/en\/discover\/on-democratic-economic-planning-and-macroeconomic-transformation\/",
+        "location": "Maharashtra, IN"
+      }
+    ]
+  },
+  {
+    "bgtools_code": null,
+    "log_classification": "sensitive",
+    "subaccount": null,
+    "reject": null,
+    "@timestamp": "2025-05-13T16:44:55.661692782Z",
+    "diag": null,
+    "ts": 1747037735,
+    "tags": [],
+    "event": [],
+    "subject": "Latest Updates from Exploring Economics",
+    "smtp_events": [
+      {
+        "destination_ip": "142.251.15.26",
+        "diag": "250 2.0.0 OK  1747037735 3f1490d57ef6-e78fd7119a3si7315563276.225 - gsmtp",
+        "ts": 1747037735,
+        "type": "sent",
+        "size": 74048,
+        "source_ip": "198.2.187.22"
+      }
+    ],
+    "elasticsearch_index": "delivered-2025-05-12",
+    "document_id": "31261772.162151587b584c57a2bcf6e0ba4162c9",
+    "state": "sent",
+    "clicks": 0,
+    "@version": "1",
+    "opens": 2,
+    "resends": [],
+    "email": "mariangelalamacchia86@gmail.com",
+    "_id": "162151587b584c57a2bcf6e0ba4162c9",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      { "ua": null, "ip": "104.28.40.142", "location": null, "ts": 1747048284 },
+      {
+        "ua": null,
+        "ip": "146.75.174.12",
+        "location": "-, SE",
+        "ts": 1747154117
+      }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "elasticsearch_index": "delivered-2025-05-12",
+    "opens": 2,
+    "@version": "1",
+    "subject": "Latest Updates from Exploring Economics",
+    "email": "anna_llabres@hotmail.com",
+    "subaccount": null,
+    "diag": null,
+    "document_id": "31261772.1d0ae19d7a444259bbaf66f5c4623d24",
+    "ts": 1747037734,
+    "smtp_events": [
+      {
+        "size": 74033,
+        "source_ip": "198.2.179.22",
+        "ts": 1747037737,
+        "destination_ip": "52.101.11.14",
+        "type": "sent",
+        "diag": "250 2.6.0 <31261772.20250512081534.6821ae26a57eb1.50610128@mail179-22.suw41.mandrillapp.com> [InternalId=17570711218621, Hostname=DU4PR10MB9047.EURPRD10.PROD.OUTLOOK.COM] 86544 bytes in 0.487, 173.334 KB\/sec Queued mail for delivery -> 250 2.1.5"
+      }
+    ],
+    "log_classification": "sensitive",
+    "state": "sent",
+    "clicks": 0,
+    "resends": [],
+    "@timestamp": "2025-05-12T14:45:05.768214508Z",
+    "event": [],
+    "tags": [],
+    "reject": null,
+    "bgtools_code": null,
+    "_id": "1d0ae19d7a444259bbaf66f5c4623d24",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ip": "172.226.226.12",
+        "ts": 1747042544,
+        "location": "Massachusetts, US",
+        "ua": null
+      },
+      {
+        "ip": "172.225.162.50",
+        "ts": 1747060783,
+        "location": "Massachusetts, US",
+        "ua": null
+      }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "elasticsearch_index": "delivered-2025-05-12",
+    "opens": 0,
+    "event": [],
+    "smtp_events": [
+      {
+        "source_ip": "198.2.179.22",
+        "ts": 1747037734,
+        "diag": "250 2.0.0 OK  1747037734 3f1490d57ef6-e78fd710b09si6655851276.263 - gsmtp",
+        "destination_ip": "173.194.219.27",
+        "type": "sent",
+        "size": 68565
+      }
+    ],
+    "@timestamp": "2025-05-12T08:20:00.017427504Z",
+    "bgtools_code": null,
+    "reject": null,
+    "clicks": 0,
+    "document_id": "31261772.359e9bc8596540888d6d98c6b64c1678",
+    "@version": "1",
+    "email": "faithmitchelle6@gmail.com",
+    "tags": [],
+    "subject": "Latest Updates from Exploring Economics",
+    "log_classification": "sensitive",
+    "ts": 1747037733,
+    "diag": null,
+    "state": "sent",
+    "subaccount": null,
+    "resends": [],
+    "_id": "359e9bc8596540888d6d98c6b64c1678",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "@timestamp": "2025-05-12T16:34:07.637372783Z",
+    "resends": [],
+    "tags": [],
+    "@version": "1",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "state": "sent",
+    "subaccount": null,
+    "bgtools_code": null,
+    "opens": 2,
+    "log_classification": "sensitive",
+    "ts": 1747037733,
+    "diag": null,
+    "document_id": "31261772.d411af554b6f466fa037bdd54be12b7c",
+    "smtp_events": [
+      {
+        "destination_ip": "173.194.219.27",
+        "diag": "250 2.0.0 OK  1747037733 00721157ae682-70a3d928bb8si70593277b3.196 - gsmtp",
+        "source_ip": "198.2.187.22",
+        "type": "sent",
+        "size": 74006,
+        "ts": 1747037733
+      }
+    ],
+    "reject": null,
+    "email": "lynnpurdy99@gmail.com",
+    "event": [],
+    "subject": "Latest Updates from Exploring Economics",
+    "clicks": 0,
+    "_id": "d411af554b6f466fa037bdd54be12b7c",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      { "location": null, "ip": "104.28.32.100", "ua": null, "ts": 1747038235 },
+      { "location": null, "ip": "104.28.32.102", "ua": null, "ts": 1747066965 }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "bgtools_code": null,
+    "diag": null,
+    "document_id": "31261772.387b97ced8e8498b94d37145a1fa05df",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "@version": "1",
+    "tags": [],
+    "event": [],
+    "clicks": 0,
+    "opens": 0,
+    "subaccount": null,
+    "log_classification": "sensitive",
+    "email": "eduardocf@gmail.com",
+    "smtp_events": [
+      {
+        "source_ip": "198.2.179.22",
+        "diag": "250 2.0.0 OK  1747037732 00721157ae682-70a3d9a7a5esi69323447b3.392 - gsmtp",
+        "ts": 1747037732,
+        "destination_ip": "142.251.15.26",
+        "type": "sent",
+        "size": 74017
+      }
+    ],
+    "ts": 1747037732,
+    "subject": "Latest Updates from Exploring Economics",
+    "resends": [],
+    "state": "sent",
+    "reject": null,
+    "@timestamp": "2025-05-12T08:19:56.276269763Z",
+    "_id": "387b97ced8e8498b94d37145a1fa05df",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "opens": 9,
+    "event": [],
+    "log_classification": "sensitive",
+    "clicks": 1,
+    "document_id": "31261772.ace61882369b461c9a80864a914999e2",
+    "tags": [],
+    "@version": "1",
+    "subject": "Latest Updates from Exploring Economics",
+    "ts": 1747037731,
+    "@timestamp": "2025-05-15T05:38:27.620252319Z",
+    "smtp_events": [
+      {
+        "source_ip": "198.2.179.22",
+        "destination_ip": "142.251.15.26",
+        "diag": "250 2.0.0 OK  1747037731 00721157ae682-70a3d9a7a5esi69323447b3.392 - gsmtp",
+        "ts": 1747037731,
+        "type": "sent",
+        "size": 57103
+      }
+    ],
+    "diag": null,
+    "state": "sent",
+    "resends": [],
+    "reject": null,
+    "elasticsearch_index": "delivered-2025-05-12",
+    "email": "irelizgeo@gmail.com",
+    "subaccount": null,
+    "bgtools_code": null,
+    "_id": "ace61882369b461c9a80864a914999e2",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "location": "Georgia, US",
+        "ua": null,
+        "ip": "74.125.209.36",
+        "ts": 1747049020
+      },
+      {
+        "location": "Georgia, US",
+        "ua": null,
+        "ip": "74.125.209.36",
+        "ts": 1747049036
+      },
+      {
+        "location": "Georgia, US",
+        "ua": null,
+        "ip": "74.125.209.38",
+        "ts": 1747049126
+      },
+      {
+        "location": "Georgia, US",
+        "ua": null,
+        "ip": "74.125.209.38",
+        "ts": 1747049006
+      },
+      {
+        "location": "Georgia, US",
+        "ua": null,
+        "ip": "74.125.209.38",
+        "ts": 1747242005
+      },
+      {
+        "location": "Georgia, US",
+        "ua": null,
+        "ip": "74.125.209.32",
+        "ts": 1747287086
+      },
+      {
+        "location": "Georgia, US",
+        "ua": null,
+        "ip": "74.125.209.36",
+        "ts": 1747287075
+      },
+      {
+        "location": "Georgia, US",
+        "ua": null,
+        "ip": "74.125.209.36",
+        "ts": 1747287081
+      },
+      {
+        "location": "Georgia, US",
+        "ua": null,
+        "ip": "74.125.209.32",
+        "ts": 1747287083
+      }
+    ],
+    "clicks_detail": [
+      {
+        "location": "Assam, IN",
+        "ua": "Windows\/Windows\/Chrome\/Chrome 136.0.0.0",
+        "url": "https:\/\/www.exploring-economics.org\/en\/discover\/on-democratic-economic-planning-and-macroeconomic-transformation\/",
+        "ip": "14.139.196.249",
+        "ts": 1747049021
+      }
+    ]
+  },
+  {
+    "bgtools_code": null,
+    "diag": null,
+    "document_id": "31261772.a1db3c65836648238ef769a6f860813d",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "@version": "1",
+    "tags": [],
+    "event": [],
+    "clicks": 0,
+    "opens": 0,
+    "subaccount": null,
+    "log_classification": "sensitive",
+    "email": "lollypopleo4@gmail.com",
+    "smtp_events": [
+      {
+        "source_ip": "198.2.179.22",
+        "diag": "250 2.0.0 OK  1747037730 3f1490d57ef6-e78fd62209dsi2788696276.185 - gsmtp",
+        "ts": 1747037730,
+        "destination_ip": "173.194.219.27",
+        "type": "sent",
+        "size": 68445
+      }
+    ],
+    "ts": 1747037730,
+    "subject": "Latest Updates from Exploring Economics",
+    "resends": [],
+    "state": "sent",
+    "reject": null,
+    "@timestamp": "2025-05-12T08:19:52.246518634Z",
+    "_id": "a1db3c65836648238ef769a6f860813d",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "bgtools_code": null,
+    "log_classification": "sensitive",
+    "subaccount": null,
+    "reject": null,
+    "@timestamp": "2025-05-13T11:15:16.774561283Z",
+    "diag": null,
+    "ts": 1747037729,
+    "tags": [],
+    "event": [],
+    "subject": "Latest Updates from Exploring Economics",
+    "smtp_events": [
+      {
+        "destination_ip": "173.194.219.27",
+        "diag": "250 2.0.0 OK  1747037730 3f1490d57ef6-e78fd743a4asi6897396276.365 - gsmtp",
+        "ts": 1747037730,
+        "type": "sent",
+        "size": 85106,
+        "source_ip": "198.2.179.22"
+      }
+    ],
+    "elasticsearch_index": "delivered-2025-05-12",
+    "document_id": "31261772.258ec0a1faa8473dacc9f2eb269d9f60",
+    "state": "sent",
+    "clicks": 1,
+    "@version": "1",
+    "opens": 5,
+    "resends": [],
+    "email": "gonzalo.scivoletto@ffyl.uncu.edu.ar",
+    "_id": "258ec0a1faa8473dacc9f2eb269d9f60",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ua": "Windows\/Windows\/Chrome\/Chrome 136.0.0.0",
+        "ip": "38.51.29.26",
+        "location": "District Of Columbia, US",
+        "ts": 1747134358
+      },
+      {
+        "ua": null,
+        "ip": "66.249.83.44",
+        "location": "California, US",
+        "ts": 1747134315
+      },
+      {
+        "ua": null,
+        "ip": "74.125.210.36",
+        "location": "California, US",
+        "ts": 1747134357
+      },
+      {
+        "ua": null,
+        "ip": "66.249.83.76",
+        "location": "California, US",
+        "ts": 1747134338
+      },
+      {
+        "ua": null,
+        "ip": "74.125.210.36",
+        "location": "California, US",
+        "ts": 1747134310
+      }
+    ],
+    "clicks_detail": [
+      {
+        "url": "https:\/\/www.exploring-economics.org\/en\/discover\/on-democratic-economic-planning-and-macroeconomic-transformation\/",
+        "ua": "Windows\/Windows\/Chrome\/Chrome 136.0.0.0",
+        "ip": "38.51.29.26",
+        "location": "District Of Columbia, US",
+        "ts": 1747134358
+      }
+    ]
+  },
+  {
+    "resends": [],
+    "email": "ps3471@columbia.edu",
+    "clicks": 0,
+    "bgtools_code": null,
+    "subject": "Latest Updates from Exploring Economics",
+    "event": [],
+    "state": "sent",
+    "@timestamp": "2025-05-12T14:24:10.931641063Z",
+    "subaccount": null,
+    "smtp_events": [
+      {
+        "diag": "250 2.0.0 46jmekwa9p-1 Message accepted for delivery",
+        "destination_ip": "148.163.139.74",
+        "source_ip": "198.2.187.22",
+        "ts": 1747037730,
+        "type": "sent",
+        "size": 74021
+      }
+    ],
+    "ts": 1747037728,
+    "document_id": "31261772.44a966ea847f41ef92e69ca34140cc23",
+    "tags": [],
+    "elasticsearch_index": "delivered-2025-05-12",
+    "diag": null,
+    "opens": 1,
+    "reject": null,
+    "@version": "1",
+    "log_classification": "sensitive",
+    "_id": "44a966ea847f41ef92e69ca34140cc23",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      { "ip": "104.28.55.233", "location": null, "ua": null, "ts": 1747059108 }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "bgtools_code": null,
+    "diag": null,
+    "document_id": "31261772.9b3af2b4e9dd44a395b940a7223b6a9b",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "@version": "1",
+    "tags": [],
+    "event": [],
+    "clicks": 0,
+    "opens": 1,
+    "subaccount": null,
+    "log_classification": "sensitive",
+    "email": "craigbromberg@gmail.com",
+    "smtp_events": [
+      {
+        "source_ip": "198.2.187.22",
+        "diag": "250 2.0.0 OK  1747037728 00721157ae682-70a3d92ae43si81579587b3.242 - gsmtp",
+        "ts": 1747037728,
+        "destination_ip": "142.251.15.26",
+        "type": "sent",
+        "size": 74016
+      }
+    ],
+    "ts": 1747037727,
+    "subject": "Latest Updates from Exploring Economics",
+    "resends": [],
+    "state": "sent",
+    "reject": null,
+    "@timestamp": "2025-05-13T08:04:06.803854698Z",
+    "_id": "9b3af2b4e9dd44a395b940a7223b6a9b",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      { "ts": 1747123116, "ip": "104.28.39.137", "ua": null, "location": null }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "email": "aryalamge2300@gmail.com",
+    "opens": 1,
+    "log_classification": "sensitive",
+    "subject": "Latest Updates from Exploring Economics",
+    "document_id": "31261772.6d1c1a68da9b4a51853a65cdb025e0cb",
+    "diag": null,
+    "state": "sent",
+    "subaccount": null,
+    "bgtools_code": null,
+    "event": [],
+    "tags": [],
+    "resends": [],
+    "reject": null,
+    "smtp_events": [
+      {
+        "type": "sent",
+        "source_ip": "198.2.187.22",
+        "ts": 1747037727,
+        "diag": "250 2.0.0 OK  1747037727 00721157ae682-70a3d92ae43si81579587b3.242 - gsmtp",
+        "size": 74010,
+        "destination_ip": "142.251.15.26"
+      }
+    ],
+    "@version": "1",
+    "@timestamp": "2025-05-12T10:18:34.716231675Z",
+    "ts": 1747037727,
+    "clicks": 0,
+    "elasticsearch_index": "delivered-2025-05-12",
+    "_id": "6d1c1a68da9b4a51853a65cdb025e0cb",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ts": 1747044535,
+        "location": "Massachusetts, US",
+        "ua": null,
+        "ip": "172.225.200.99"
+      }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "email": "danyelamiyoshi877@gmail.com",
+    "opens": 0,
+    "subject": "Latest Updates from Exploring Economics",
+    "diag": null,
+    "event": [],
+    "tags": [],
+    "subaccount": null,
+    "bgtools_code": null,
+    "document_id": "31261772.9bb60ced939740cc926052a0d6ad2b24",
+    "resends": [],
+    "state": "sent",
+    "reject": null,
+    "smtp_events": [
+      {
+        "type": "sent",
+        "source_ip": "198.2.187.22",
+        "ts": 1747037727,
+        "diag": "250 2.0.0 OK  1747037727 3f1490d57ef6-e78fd5bb89esi6799912276.11 - gsmtp",
+        "size": 74039,
+        "destination_ip": "142.251.15.26"
+      }
+    ],
+    "elasticsearch_index": "delivered-2025-05-12",
+    "log_classification": "sensitive",
+    "@timestamp": "2025-05-12T08:20:06.471812608Z",
+    "clicks": 0,
+    "ts": 1747037726,
+    "@version": "1",
+    "_id": "9bb60ced939740cc926052a0d6ad2b24",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "resends": [],
+    "reject": null,
+    "@version": "1",
+    "clicks": 0,
+    "event": [],
+    "smtp_events": [
+      {
+        "destination_ip": "173.194.219.27",
+        "diag": "250 2.0.0 OK  1747037726 3f1490d57ef6-e78fd743793si6627754276.354 - gsmtp",
+        "size": 74047,
+        "source_ip": "198.2.187.22",
+        "type": "sent",
+        "ts": 1747037726
+      }
+    ],
+    "@timestamp": "2025-05-12T08:18:36.351628552Z",
+    "tags": [],
+    "document_id": "31261772.2acd6defe8a24453accea39d544897cc",
+    "diag": null,
+    "log_classification": "sensitive",
+    "email": "manjunathbgkgbk@gmail.com",
+    "subaccount": null,
+    "subject": "Latest Updates from Exploring Economics",
+    "state": "sent",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "ts": 1747037725,
+    "bgtools_code": null,
+    "opens": 0,
+    "_id": "2acd6defe8a24453accea39d544897cc",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "email": "jperesa@gmail.com",
+    "opens": 0,
+    "subject": "Latest Updates from Exploring Economics",
+    "diag": null,
+    "event": [],
+    "tags": [],
+    "subaccount": null,
+    "bgtools_code": null,
+    "document_id": "31261772.34585f2a2c68492a82081c200bbcc38e",
+    "resends": [],
+    "state": "sent",
+    "reject": null,
+    "smtp_events": [
+      {
+        "type": "sent",
+        "source_ip": "198.2.179.22",
+        "ts": 1747037725,
+        "diag": "250 2.0.0 OK  1747037725 3f1490d57ef6-e78fd5bd0easi6619557276.50 - gsmtp",
+        "size": 68480,
+        "destination_ip": "173.194.219.27"
+      }
+    ],
+    "elasticsearch_index": "delivered-2025-05-12",
+    "log_classification": "sensitive",
+    "@timestamp": "2025-05-12T08:19:53.210795430Z",
+    "clicks": 0,
+    "ts": 1747037724,
+    "@version": "1",
+    "_id": "34585f2a2c68492a82081c200bbcc38e",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "subject": "Latest Updates from Exploring Economics",
+    "resends": [],
+    "@timestamp": "2025-05-12T08:19:51.188045384Z",
+    "tags": [],
+    "opens": 0,
+    "reject": null,
+    "email": "eder.rivas04@gmail.com",
+    "event": [],
+    "bgtools_code": null,
+    "elasticsearch_index": "delivered-2025-05-12",
+    "@version": "1",
+    "diag": null,
+    "document_id": "31261772.1ebc74ca113f4bc6b8ff0e89c3a00994",
+    "subaccount": null,
+    "smtp_events": [
+      {
+        "diag": "250 2.0.0 OK  1747037724 00721157ae682-70a3d9dd33fsi66493277b3.465 - gsmtp",
+        "ts": 1747037724,
+        "source_ip": "198.2.179.22",
+        "destination_ip": "142.251.15.26",
+        "type": "sent",
+        "size": 74034
+      }
+    ],
+    "clicks": 0,
+    "ts": 1747037723,
+    "state": "sent",
+    "log_classification": "sensitive",
+    "_id": "1ebc74ca113f4bc6b8ff0e89c3a00994",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "tags": [],
+    "smtp_events": [
+      {
+        "size": 74024,
+        "destination_ip": "173.194.219.27",
+        "ts": 1747037723,
+        "diag": "250 2.0.0 OK  1747037723 00721157ae682-70a3d7ecdc8si82022627b3.56 - gsmtp",
+        "type": "sent",
+        "source_ip": "198.2.179.22"
+      }
+    ],
+    "resends": [],
+    "elasticsearch_index": "delivered-2025-05-12",
+    "email": "bombafrederick@gmail.com",
+    "reject": null,
+    "subject": "Latest Updates from Exploring Economics",
+    "state": "sent",
+    "opens": 0,
+    "event": [],
+    "ts": 1747037722,
+    "document_id": "31261772.812a52eea2f24ca6950fdec0430da1af",
+    "@timestamp": "2025-05-12T08:20:05.618443664Z",
+    "clicks": 0,
+    "subaccount": null,
+    "diag": null,
+    "@version": "1",
+    "bgtools_code": null,
+    "log_classification": "sensitive",
+    "_id": "812a52eea2f24ca6950fdec0430da1af",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "@version": "1",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "ts": 1747037721,
+    "subaccount": null,
+    "resends": [],
+    "@timestamp": "2025-05-12T08:18:28.903502445Z",
+    "diag": null,
+    "tags": [],
+    "log_classification": "sensitive",
+    "bgtools_code": null,
+    "clicks": 0,
+    "email": "TCMassey510@Gmail.com",
+    "document_id": "31261772.a1adbe9849c94ad2a4401b49687e1022",
+    "state": "sent",
+    "event": [],
+    "smtp_events": [
+      {
+        "source_ip": "198.2.187.22",
+        "destination_ip": "173.194.219.27",
+        "diag": "250 2.0.0 OK  1747037722 3f1490d57ef6-e78fd5bd065si3244804276.62 - gsmtp",
+        "ts": 1747037722,
+        "type": "sent",
+        "size": 74019
+      }
+    ],
+    "opens": 0,
+    "reject": null,
+    "subject": "Latest Updates from Exploring Economics",
+    "_id": "a1adbe9849c94ad2a4401b49687e1022",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "reject": null,
+    "bgtools_code": null,
+    "log_classification": "sensitive",
+    "clicks": 1,
+    "ts": 1747037721,
+    "smtp_events": [
+      {
+        "type": "sent",
+        "diag": "250 2.6.0 <31261772.20250512081521.6821ae192bfe09.49502985@mail179-22.suw41.mandrillapp.com> [InternalId=112313394802642, Hostname=AM9PR02MB6963.eurprd02.prod.outlook.com] 87936 bytes in 0.076, 1128.165 KB\/sec Queued mail for delivery",
+        "ts": 1747037724,
+        "source_ip": "198.2.179.22",
+        "destination_ip": "52.101.73.16",
+        "size": 73605
+      }
+    ],
+    "email": "lana.knoedler@viadee.de",
+    "diag": null,
+    "subject": "Latest Updates from Exploring Economics",
+    "document_id": "31261772.242ff8a5405747d9989b8e58ee8e6035",
+    "@version": "1",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "tags": [],
+    "state": "sent",
+    "opens": 1,
+    "@timestamp": "2025-05-12T11:17:24.054308412Z",
+    "event": [],
+    "resends": [],
+    "subaccount": null,
+    "_id": "242ff8a5405747d9989b8e58ee8e6035",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "location": "Nordrhein-westfalen, DE",
+        "ip": "83.135.34.36",
+        "ts": 1747048457,
+        "ua": "Windows\/Windows\/Firefox\/Firefox 138.0"
+      }
+    ],
+    "clicks_detail": [
+      {
+        "location": "Nordrhein-westfalen, DE",
+        "ip": "83.135.34.36",
+        "ts": 1747048457,
+        "ua": "Windows\/Windows\/Firefox\/Firefox 138.0",
+        "url": "https:\/\/www.exploring-economics.org\/en\/discover\/towards-a-socio-ecological-transformation-of-the-economy\/"
+      }
+    ]
+  },
+  {
+    "@version": "1",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "ts": 1747037720,
+    "subaccount": null,
+    "resends": [],
+    "@timestamp": "2025-05-13T07:16:47.255365293Z",
+    "diag": null,
+    "tags": [],
+    "log_classification": "sensitive",
+    "bgtools_code": null,
+    "clicks": 0,
+    "email": "dr.raisfoudil@univ-tebessa.dz",
+    "document_id": "31261772.d0fbe8f6285b4038ad4241813b65e1e9",
+    "state": "sent",
+    "event": [],
+    "smtp_events": [
+      {
+        "source_ip": "198.2.187.22",
+        "destination_ip": "173.194.219.27",
+        "diag": "250 2.0.0 OK  1747037721 3f1490d57ef6-e78fd77fe4dsi7573233276.500 - gsmtp",
+        "ts": 1747037721,
+        "type": "sent",
+        "size": 74023
+      }
+    ],
+    "opens": 2,
+    "reject": null,
+    "subject": "Latest Updates from Exploring Economics",
+    "_id": "d0fbe8f6285b4038ad4241813b65e1e9",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "location": "California, US",
+        "ua": null,
+        "ip": "66.249.93.38",
+        "ts": 1747119979
+      },
+      {
+        "location": "California, US",
+        "ua": null,
+        "ip": "66.249.93.38",
+        "ts": 1747119973
+      }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "clicks": 3,
+    "log_classification": "sensitive",
+    "diag": null,
+    "document_id": "31261772.d4ce123bd20446949c6bf175845ec9d3",
+    "subject": "Latest Updates from Exploring Economics",
+    "@timestamp": "2025-05-12T09:09:21.362069347Z",
+    "email": "francescadalben01@gmail.com",
+    "bgtools_code": null,
+    "smtp_events": [
+      {
+        "ts": 1747037720,
+        "destination_ip": "173.194.219.27",
+        "source_ip": "198.2.187.22",
+        "type": "sent",
+        "diag": "250 2.0.0 OK  1747037720 3f1490d57ef6-e78fd5bd065si3244804276.62 - gsmtp",
+        "size": 74035
+      }
+    ],
+    "@version": "1",
+    "reject": null,
+    "opens": 4,
+    "event": [],
+    "ts": 1747037719,
+    "state": "sent",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "resends": [],
+    "subaccount": null,
+    "tags": [],
+    "_id": "d4ce123bd20446949c6bf175845ec9d3",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ts": 1747040546,
+        "ip": "102.216.123.30",
+        "location": null,
+        "ua": "Windows\/Windows\/Chrome\/Chrome 136.0.0.0"
+      },
+      {
+        "ts": 1747040495,
+        "ip": "66.249.93.38",
+        "location": "California, US",
+        "ua": null
+      },
+      {
+        "ts": 1747040518,
+        "ip": "66.249.93.38",
+        "location": "California, US",
+        "ua": null
+      },
+      {
+        "ts": 1747040489,
+        "ip": "66.249.93.38",
+        "location": "California, US",
+        "ua": null
+      }
+    ],
+    "clicks_detail": [
+      {
+        "url": "https:\/\/www.exploring-economics.org\/en\/discover\/towards-a-socio-ecological-transformation-of-the-economy\/",
+        "ts": 1747040546,
+        "ip": "102.216.123.30",
+        "location": null,
+        "ua": "Windows\/Windows\/Chrome\/Chrome 136.0.0.0"
+      },
+      {
+        "url": "https:\/\/www.exploring-economics.org\/en\/study\/books\/decolonial-narratives-in-economics\/",
+        "ts": 1747040502,
+        "ip": "102.216.123.30",
+        "location": null,
+        "ua": "Windows\/Windows\/Chrome\/Chrome 136.0.0.0"
+      },
+      {
+        "url": "https:\/\/www.exploring-economics.org\/en\/discover\/towards-a-socio-ecological-transformation-of-the-economy\/",
+        "ts": 1747040499,
+        "ip": "102.216.123.30",
+        "location": null,
+        "ua": "Windows\/Windows\/Chrome\/Chrome 136.0.0.0"
+      }
+    ]
+  },
+  {
+    "bgtools_code": null,
+    "@timestamp": "2025-05-12T08:28:16.641900605Z",
+    "@version": "1",
+    "event": [],
+    "subject": "Latest Updates from Exploring Economics",
+    "subaccount": null,
+    "state": "sent",
+    "ts": 1747037718,
+    "email": "barbara.wackermann@googlemail.com",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "reject": null,
+    "diag": null,
+    "log_classification": "sensitive",
+    "smtp_events": [
+      {
+        "diag": "250 2.0.0 OK  1747037719 3f1490d57ef6-e7aa79889desi3318654276.421 - gsmtp",
+        "ts": 1747037719,
+        "destination_ip": "142.251.15.26",
+        "source_ip": "198.2.187.22",
+        "type": "sent",
+        "size": 57141
+      }
+    ],
+    "clicks": 0,
+    "resends": [],
+    "document_id": "31261772.f7defbd76b894f75a30470a2efa3b515",
+    "tags": [],
+    "opens": 1,
+    "_id": "f7defbd76b894f75a30470a2efa3b515",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "location": "California, US",
+        "ua": null,
+        "ts": 1747038213,
+        "ip": "66.249.81.134"
+      }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "clicks": 0,
+    "event": [],
+    "opens": 1,
+    "ts": 1747037717,
+    "diag": null,
+    "resends": [],
+    "document_id": "31261772.a0ec57d8c6c442f09f2dc279b430e5e2",
+    "log_classification": "sensitive",
+    "bgtools_code": null,
+    "subaccount": null,
+    "elasticsearch_index": "delivered-2025-05-12",
+    "subject": "Latest Updates from Exploring Economics",
+    "@version": "1",
+    "@timestamp": "2025-05-12T08:54:17.140674532Z",
+    "email": "tina@timesup.org",
+    "state": "sent",
+    "smtp_events": [
+      {
+        "ts": 1747037731,
+        "diag": "451 4.7.1 Try again later",
+        "type": "deferred",
+        "source_ip": "198.2.187.22",
+        "destination_ip": "193.170.194.20",
+        "size": 85053
+      },
+      {
+        "ts": 1747038769,
+        "diag": "250 2.0.0 Ok: queued as 0F1DE519",
+        "type": "sent",
+        "source_ip": "198.2.187.22",
+        "destination_ip": "193.170.194.6",
+        "size": 85053
+      }
+    ],
+    "tags": [],
+    "reject": null,
+    "_id": "a0ec57d8c6c442f09f2dc279b430e5e2",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ip": "178.115.250.253",
+        "ts": 1747039844,
+        "location": "Steiermark, AT",
+        "ua": null
+      }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "ts": 1747037716,
+    "bgtools_code": null,
+    "event": [],
+    "subject": "Latest Updates from Exploring Economics",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "resends": [],
+    "diag": null,
+    "@timestamp": "2025-05-14T01:25:25.778152962Z",
+    "smtp_events": [
+      {
+        "ts": 1747037720,
+        "source_ip": "198.2.187.22",
+        "diag": "250 2.6.0 <31261772.20250512081516.6821ae14e23722.60372224@mail187-22.suw11.mandrillapp.com> [InternalId=45161581120489, Hostname=MW6PR11MB8310.namprd11.prod.outlook.com] 86499 bytes in 0.517, 163.107 KB\/sec Queued mail for delivery -> 250 2.1.5",
+        "destination_ip": "52.101.68.38",
+        "type": "sent",
+        "size": 74016
+      }
+    ],
+    "opens": 1,
+    "reject": null,
+    "@version": "1",
+    "tags": [],
+    "state": "sent",
+    "document_id": "31261772.86918c406df64403801004fdee551453",
+    "clicks": 0,
+    "log_classification": "sensitive",
+    "subaccount": null,
+    "email": "ivansudibyo14@outlook.com",
+    "_id": "86918c406df64403801004fdee551453",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ts": 1747185371,
+        "ua": "Mobile\/Android\/Android\/Android browser\/Android browser 4.0",
+        "ip": "140.0.212.67",
+        "location": "Jakarta Raya, ID"
+      }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "bgtools_code": null,
+    "log_classification": "sensitive",
+    "subaccount": null,
+    "reject": null,
+    "@timestamp": "2025-05-12T08:18:30.693607926Z",
+    "diag": null,
+    "ts": 1747037716,
+    "tags": [],
+    "event": [],
+    "subject": "Latest Updates from Exploring Economics",
+    "smtp_events": [
+      {
+        "destination_ip": "173.194.219.27",
+        "diag": "250 2.0.0 OK  1747037716 00721157ae682-70a3d9e12b2si61048207b3.474 - gsmtp",
+        "ts": 1747037716,
+        "type": "sent",
+        "size": 74016,
+        "source_ip": "198.2.187.22"
+      }
+    ],
+    "elasticsearch_index": "delivered-2025-05-12",
+    "document_id": "31261772.28d1fce60a9148b289f6bec16f99e3b1",
+    "state": "sent",
+    "clicks": 0,
+    "@version": "1",
+    "opens": 0,
+    "resends": [],
+    "email": "ibrahimadrame@gmail.com",
+    "_id": "28d1fce60a9148b289f6bec16f99e3b1",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "email": "thomas.dolan@ucl.ac.uk",
+    "opens": 0,
+    "subject": "Latest Updates from Exploring Economics",
+    "diag": null,
+    "event": [],
+    "tags": [],
+    "subaccount": null,
+    "bgtools_code": null,
+    "document_id": "31261772.0292f9b7f14a473e8e267dcc66aaaee9",
+    "resends": [],
+    "state": "sent",
+    "reject": null,
+    "smtp_events": [
+      {
+        "type": "sent",
+        "source_ip": "198.2.179.22",
+        "ts": 1747037716,
+        "diag": "250 2.6.0 <31261772.20250512081515.6821ae132e7d28.22449401@mail179-22.suw41.mandrillapp.com> [InternalId=199101798951787, Hostname=AM7PR01MB6612.eurprd01.prod.exchangelabs.com] 88338 bytes in 0.172, 500.901 KB\/sec Queued mail for delivery",
+        "size": 74005,
+        "destination_ip": "52.101.73.11"
+      }
+    ],
+    "elasticsearch_index": "delivered-2025-05-12",
+    "log_classification": "sensitive",
+    "@timestamp": "2025-05-12T08:20:04.177591404Z",
+    "clicks": 0,
+    "ts": 1747037715,
+    "@version": "1",
+    "_id": "0292f9b7f14a473e8e267dcc66aaaee9",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "elasticsearch_index": "delivered-2025-05-12",
+    "opens": 3,
+    "@version": "1",
+    "subject": "Latest Updates from Exploring Economics",
+    "email": "p.overend@icloud.com",
+    "subaccount": null,
+    "diag": null,
+    "document_id": "31261772.97f0c6279d294ce9b64e8ee35d9c0f5c",
+    "ts": 1747037714,
+    "smtp_events": [
+      {
+        "size": 74006,
+        "source_ip": "198.2.179.22",
+        "ts": 1747037721,
+        "destination_ip": "17.57.155.25",
+        "type": "sent",
+        "diag": "250 2.0.0 Ok: queued as 696EEC000C4"
+      }
+    ],
+    "log_classification": "sensitive",
+    "state": "sent",
+    "clicks": 1,
+    "resends": [],
+    "@timestamp": "2025-05-13T10:13:14.372716738Z",
+    "event": [],
+    "tags": [],
+    "reject": null,
+    "bgtools_code": null,
+    "_id": "97f0c6279d294ce9b64e8ee35d9c0f5c",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ip": "90.251.122.140",
+        "ts": 1747042248,
+        "ua": "Mobile\/iOS\/iOS\/Mobile Safari\/Mobile Safari 17.11",
+        "location": "England, GB"
+      },
+      {
+        "ip": "146.75.174.12",
+        "ts": 1747042221,
+        "location": "-, SE",
+        "ua": null
+      },
+      {
+        "ip": "146.75.174.12",
+        "ts": 1747130473,
+        "location": "-, SE",
+        "ua": null
+      }
+    ],
+    "clicks_detail": [
+      {
+        "url": "https:\/\/www.exploring-economics.org\/en\/discover\/towards-a-socio-ecological-transformation-of-the-economy\/",
+        "ip": "90.251.122.140",
+        "ts": 1747042248,
+        "location": "England, GB",
+        "ua": "Mobile\/iOS\/iOS\/Mobile Safari\/Mobile Safari 17.11"
+      }
+    ]
+  },
+  {
+    "bgtools_code": null,
+    "event": [],
+    "email": "ignsfernando@gmail.com",
+    "document_id": "31261772.d8cc7a3fa91a4455b6aca9f772c43447",
+    "@timestamp": "2025-05-12T21:16:21.571136081Z",
+    "reject": null,
+    "log_classification": "sensitive",
+    "@version": "1",
+    "resends": [],
+    "subaccount": null,
+    "clicks": 0,
+    "elasticsearch_index": "delivered-2025-05-12",
+    "state": "sent",
+    "subject": "Latest Updates from Exploring Economics",
+    "ts": 1747037713,
+    "tags": [],
+    "smtp_events": [
+      {
+        "type": "sent",
+        "destination_ip": "142.251.15.26",
+        "source_ip": "198.2.179.22",
+        "ts": 1747037714,
+        "size": 74023,
+        "diag": "250 2.0.0 OK  1747037714 00721157ae682-70a3d7d88a0si37162077b3.72 - gsmtp"
+      }
+    ],
+    "opens": 1,
+    "diag": null,
+    "_id": "d8cc7a3fa91a4455b6aca9f772c43447",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ts": 1747084135,
+        "location": "Massachusetts, US",
+        "ua": null,
+        "ip": "140.248.41.24"
+      }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "bgtools_code": null,
+    "diag": null,
+    "document_id": "31261772.b9c4d35ad28c42a19cd002febd9b9f78",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "@version": "1",
+    "tags": [],
+    "event": [],
+    "clicks": 0,
+    "opens": 0,
+    "subaccount": null,
+    "log_classification": "sensitive",
+    "email": "suaytosyali@gmail.com",
+    "smtp_events": [
+      {
+        "source_ip": "198.2.179.22",
+        "diag": "250 2.0.0 OK  1747037713 00721157ae682-70a3d928ba2si46875357b3.189 - gsmtp",
+        "ts": 1747037713,
+        "destination_ip": "173.194.219.27",
+        "type": "sent",
+        "size": 74027
+      }
+    ],
+    "ts": 1747037712,
+    "subject": "Latest Updates from Exploring Economics",
+    "resends": [],
+    "state": "sent",
+    "reject": null,
+    "@timestamp": "2025-05-12T08:19:55.655530374Z",
+    "_id": "b9c4d35ad28c42a19cd002febd9b9f78",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "@version": "1",
+    "ts": 1747037711,
+    "clicks": 2,
+    "event": [],
+    "bgtools_code": null,
+    "state": "sent",
+    "smtp_events": [
+      {
+        "ts": 1747037713,
+        "source_ip": "198.2.187.22",
+        "diag": "250 2.0.0 Ok: queued as 4Zwsq50HCFz3wbL",
+        "destination_ip": "77.87.224.131",
+        "type": "sent",
+        "size": 85073
+      }
+    ],
+    "email": "simon.lengemann@bpb.de",
+    "subaccount": null,
+    "subject": "Latest Updates from Exploring Economics",
+    "opens": 1,
+    "document_id": "31261772.758808bab264408a845b66241879b37c",
+    "log_classification": "sensitive",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "tags": [],
+    "resends": [],
+    "@timestamp": "2025-05-12T08:25:19.875496766Z",
+    "diag": null,
+    "reject": null,
+    "_id": "758808bab264408a845b66241879b37c",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ua": "Windows\/Windows\/Chrome\/Chrome 134.0.0.0",
+        "ip": "77.87.228.68",
+        "ts": 1747038293,
+        "location": "Nordrhein-westfalen, DE"
+      }
+    ],
+    "clicks_detail": [
+      {
+        "ua": "Windows\/Windows\/Chrome\/Chrome 134.0.0.0",
+        "ip": "77.87.228.68",
+        "ts": 1747038293,
+        "location": "Nordrhein-westfalen, DE",
+        "url": "https:\/\/www.exploring-economics.org\/en\/discover\/preiskontrollen-gegen-die-inflation\/"
+      },
+      {
+        "ua": "Windows\/Windows\/Chrome\/Chrome 134.0.0.0",
+        "ip": "77.87.228.68",
+        "ts": 1747038282,
+        "location": "Nordrhein-westfalen, DE",
+        "url": "https:\/\/www.exploring-economics.org\/en\/discover\/vermoegensungleichheit-in-deutschland\/"
+      }
+    ]
+  },
+  {
+    "bgtools_code": null,
+    "@timestamp": "2025-05-12T08:18:30.475978988Z",
+    "@version": "1",
+    "event": [],
+    "subject": "Latest Updates from Exploring Economics",
+    "subaccount": null,
+    "state": "sent",
+    "ts": 1747037710,
+    "email": "Angelicadzc2@gmail.com",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "reject": null,
+    "diag": null,
+    "log_classification": "sensitive",
+    "smtp_events": [
+      {
+        "diag": "250 2.0.0 OK  1747037710 3f1490d57ef6-e78fd7117cbsi7227767276.280 - gsmtp",
+        "ts": 1747037710,
+        "destination_ip": "173.194.219.27",
+        "source_ip": "198.2.187.22",
+        "type": "sent",
+        "size": 68151
+      }
+    ],
+    "clicks": 0,
+    "resends": [],
+    "document_id": "31261772.ebc4d21e59e74b7593b23dabf846acd9",
+    "tags": [],
+    "opens": 0,
+    "_id": "ebc4d21e59e74b7593b23dabf846acd9",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "bgtools_code": null,
+    "log_classification": "sensitive",
+    "subaccount": null,
+    "reject": null,
+    "@timestamp": "2025-05-12T08:18:36.942169481Z",
+    "diag": null,
+    "ts": 1747037710,
+    "tags": [],
+    "event": [],
+    "subject": "Latest Updates from Exploring Economics",
+    "smtp_events": [
+      {
+        "destination_ip": "67.195.228.106",
+        "diag": "250 ok dirdel",
+        "ts": 1747037713,
+        "type": "sent",
+        "size": 74024,
+        "source_ip": "198.2.187.22"
+      }
+    ],
+    "elasticsearch_index": "delivered-2025-05-12",
+    "document_id": "31261772.7cae09a3ea944054b2ab6f8ca647294a",
+    "state": "sent",
+    "clicks": 0,
+    "@version": "1",
+    "opens": 0,
+    "resends": [],
+    "email": "grupocharacter@yahoo.com",
+    "_id": "7cae09a3ea944054b2ab6f8ca647294a",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "email": "dario.rapiti@gmail.com",
+    "opens": 0,
+    "log_classification": "sensitive",
+    "subject": "Latest Updates from Exploring Economics",
+    "document_id": "31261772.2761a6a473084b3388dc66f64dda8445",
+    "diag": null,
+    "state": "sent",
+    "subaccount": null,
+    "bgtools_code": null,
+    "event": [],
+    "tags": [],
+    "resends": [],
+    "reject": null,
+    "smtp_events": [
+      {
+        "type": "sent",
+        "source_ip": "198.2.179.22",
+        "ts": 1747037709,
+        "diag": "250 2.0.0 OK  1747037709 00721157ae682-70a3d99a776si69943767b3.324 - gsmtp",
+        "size": 74012,
+        "destination_ip": "173.194.219.27"
+      }
+    ],
+    "@version": "1",
+    "@timestamp": "2025-05-12T08:20:00.515752072Z",
+    "ts": 1747037709,
+    "clicks": 0,
+    "elasticsearch_index": "delivered-2025-05-12",
+    "_id": "2761a6a473084b3388dc66f64dda8445",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "elasticsearch_index": "delivered-2025-05-12",
+    "opens": 1,
+    "@version": "1",
+    "subject": "Latest Updates from Exploring Economics",
+    "email": "b.marques@orange.fr",
+    "subaccount": null,
+    "diag": null,
+    "document_id": "31261772.b9272ddcab714ac28d792b7053731eaf",
+    "ts": 1747037708,
+    "smtp_events": [
+      {
+        "size": 68440,
+        "source_ip": "198.2.179.22",
+        "ts": 1747037710,
+        "destination_ip": "80.12.26.32",
+        "type": "sent",
+        "diag": "250 2.0.0 EOJYuqrZpmwzoEOJZuKlWF mail accepted for delivery"
+      }
+    ],
+    "log_classification": "sensitive",
+    "state": "sent",
+    "clicks": 0,
+    "resends": [],
+    "@timestamp": "2025-05-12T09:18:20.500884991Z",
+    "event": [],
+    "tags": [],
+    "reject": null,
+    "bgtools_code": null,
+    "_id": "b9272ddcab714ac28d792b7053731eaf",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ip": "92.144.146.236",
+        "ts": 1747041031,
+        "location": "Rhone-alpes, FR",
+        "ua": "Mobile\/Android\/Android\/Android browser\/Android browser 4.0"
+      }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "email": "fezhead@fezhead.xyz",
+    "opens": 0,
+    "subject": "Latest Updates from Exploring Economics",
+    "diag": null,
+    "event": [],
+    "tags": [],
+    "subaccount": null,
+    "bgtools_code": null,
+    "document_id": "31261772.260986aedb3d440ab5684e0d378ae24b",
+    "resends": [],
+    "state": "sent",
+    "reject": null,
+    "smtp_events": [
+      {
+        "type": "sent",
+        "source_ip": "198.2.179.22",
+        "ts": 1747037708,
+        "diag": "250 2.0.0 Ok: queued as 404D9590E",
+        "size": 74012,
+        "destination_ip": "167.114.129.85"
+      }
+    ],
+    "elasticsearch_index": "delivered-2025-05-12",
+    "log_classification": "sensitive",
+    "@timestamp": "2025-05-12T08:19:58.837513728Z",
+    "clicks": 0,
+    "ts": 1747037707,
+    "@version": "1",
+    "_id": "260986aedb3d440ab5684e0d378ae24b",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "@timestamp": "2025-05-13T12:23:31.153014076Z",
+    "resends": [],
+    "document_id": "31261772.adec81382fcc4fe59770e39dad22036c",
+    "opens": 1,
+    "log_classification": "sensitive",
+    "subject": "Latest Updates from Exploring Economics",
+    "bgtools_code": null,
+    "diag": null,
+    "@version": "1",
+    "ts": 1747037706,
+    "event": [],
+    "email": "oliver.kloss@gmx.de",
+    "smtp_events": [
+      {
+        "diag": "250 Requested mail action okay, completed: id=1MF1oo-1uCAKp3SK8-006BjW",
+        "ts": 1747037708,
+        "destination_ip": "212.227.15.9",
+        "source_ip": "198.2.187.22",
+        "type": "sent",
+        "size": 85066
+      }
+    ],
+    "elasticsearch_index": "delivered-2025-05-12",
+    "state": "sent",
+    "subaccount": null,
+    "tags": [],
+    "reject": null,
+    "clicks": 0,
+    "_id": "adec81382fcc4fe59770e39dad22036c",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ts": 1747138698,
+        "ip": "140.248.36.55",
+        "location": "Massachusetts, US",
+        "ua": null
+      }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "document_id": "31261772.868466f6505f442e8bd480e9d62b1559",
+    "@timestamp": "2025-05-12T12:19:18.422241933Z",
+    "tags": [],
+    "state": "sent",
+    "resends": [],
+    "ts": 1747037705,
+    "@version": "1",
+    "smtp_events": [
+      {
+        "size": 74021,
+        "diag": "250 2.0.0 OK  1747037706 00721157ae682-70a3d9e0373si64642477b3.426 - gsmtp",
+        "source_ip": "198.2.187.22",
+        "ts": 1747037706,
+        "type": "sent",
+        "destination_ip": "142.251.15.26"
+      }
+    ],
+    "opens": 2,
+    "reject": null,
+    "diag": null,
+    "subaccount": null,
+    "subject": "Latest Updates from Exploring Economics",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "event": [],
+    "bgtools_code": null,
+    "clicks": 0,
+    "log_classification": "sensitive",
+    "email": "rodrigoqm2006@gmail.com",
+    "_id": "868466f6505f442e8bd480e9d62b1559",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "location": "California, US",
+        "ts": 1747051221,
+        "ip": "74.125.214.167",
+        "ua": null
+      },
+      { "location": null, "ts": 1747051662, "ip": "104.28.50.21", "ua": null }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "tags": [],
+    "smtp_events": [
+      {
+        "size": 57104,
+        "destination_ip": "173.194.219.27",
+        "ts": 1747037705,
+        "diag": "250 2.0.0 OK  1747037705 3f1490d57ef6-e79143df3e5si4026470276.83 - gsmtp",
+        "type": "sent",
+        "source_ip": "198.2.187.22"
+      }
+    ],
+    "resends": [],
+    "elasticsearch_index": "delivered-2025-05-12",
+    "email": "fantasticate01@gmail.com",
+    "reject": null,
+    "subject": "Latest Updates from Exploring Economics",
+    "state": "sent",
+    "opens": 0,
+    "event": [],
+    "ts": 1747037704,
+    "document_id": "31261772.9b4ee9954a294e4482889fdb8ca45df2",
+    "@timestamp": "2025-05-12T08:18:06.094897724Z",
+    "clicks": 0,
+    "subaccount": null,
+    "diag": null,
+    "@version": "1",
+    "bgtools_code": null,
+    "log_classification": "sensitive",
+    "_id": "9b4ee9954a294e4482889fdb8ca45df2",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "resends": [],
+    "email": "arinaantoci933@gmail.com",
+    "clicks": 0,
+    "bgtools_code": null,
+    "subject": "Latest Updates from Exploring Economics",
+    "event": [],
+    "state": "sent",
+    "@timestamp": "2025-05-12T08:18:21.033922070Z",
+    "subaccount": null,
+    "smtp_events": [
+      {
+        "diag": "250 2.0.0 OK  1747037704 3f1490d57ef6-e78fd5b5321si6546735276.26 - gsmtp",
+        "destination_ip": "173.194.219.27",
+        "source_ip": "198.2.187.22",
+        "ts": 1747037704,
+        "type": "sent",
+        "size": 57113
+      }
+    ],
+    "ts": 1747037704,
+    "document_id": "31261772.67fe873ca8804f7a89a364c4c6832ca6",
+    "tags": [],
+    "elasticsearch_index": "delivered-2025-05-12",
+    "diag": null,
+    "opens": 0,
+    "reject": null,
+    "@version": "1",
+    "log_classification": "sensitive",
+    "_id": "67fe873ca8804f7a89a364c4c6832ca6",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "bgtools_code": null,
+    "@timestamp": "2025-05-12T08:42:24.291734569Z",
+    "@version": "1",
+    "event": [],
+    "subject": "Latest Updates from Exploring Economics",
+    "subaccount": null,
+    "state": "sent",
+    "ts": 1747037703,
+    "email": "marief.perruchoud@netplus.ch",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "reject": null,
+    "diag": null,
+    "log_classification": "sensitive",
+    "smtp_events": [
+      {
+        "diag": "250 2.0.0 Ok: queued as 4Zwsq61z3RzB7xB",
+        "ts": 1747037714,
+        "destination_ip": "91.212.152.10",
+        "source_ip": "198.2.187.22",
+        "type": "sent",
+        "size": 68529
+      }
+    ],
+    "clicks": 0,
+    "resends": [],
+    "document_id": "31261772.ea761ade423647abbb3b0c14751b7a1b",
+    "tags": [],
+    "opens": 1,
+    "_id": "ea761ade423647abbb3b0c14751b7a1b",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "location": "Zurich, CH",
+        "ua": "Windows\/Windows\/Chrome\/Chrome 136.0.0.0",
+        "ts": 1747039095,
+        "ip": "195.162.183.57"
+      }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "@timestamp": "2025-05-12T08:18:21.305064058Z",
+    "@version": "1",
+    "tags": [],
+    "state": "sent",
+    "document_id": "31261772.97f60a85019f4d4fa3eff66fbbf12cf7",
+    "smtp_events": [
+      {
+        "source_ip": "198.2.187.22",
+        "destination_ip": "83.166.143.58",
+        "ts": 1747037704,
+        "type": "sent",
+        "diag": "250 2.0.0 Ok: queued as 4Zwspv6SfhzD0D",
+        "size": 57110
+      }
+    ],
+    "bgtools_code": null,
+    "subject": "Latest Updates from Exploring Economics",
+    "clicks": 0,
+    "diag": null,
+    "log_classification": "sensitive",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "opens": 0,
+    "subaccount": null,
+    "email": "salem@genevalink.com",
+    "reject": null,
+    "ts": 1747037702,
+    "event": [],
+    "resends": [],
+    "_id": "97f60a85019f4d4fa3eff66fbbf12cf7",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "log_classification": "sensitive",
+    "subject": "Latest Updates from Exploring Economics",
+    "event": [],
+    "reject": null,
+    "opens": 0,
+    "resends": [],
+    "tags": [],
+    "clicks": 0,
+    "smtp_events": [
+      {
+        "size": 74007,
+        "destination_ip": "173.194.219.27",
+        "diag": "250 2.0.0 OK  1747037702 00721157ae682-70a3d950177si35928747b3.269 - gsmtp",
+        "ts": 1747037702,
+        "type": "sent",
+        "source_ip": "198.2.187.22"
+      }
+    ],
+    "diag": null,
+    "elasticsearch_index": "delivered-2025-05-12",
+    "document_id": "31261772.e9d060e440ce409ba0f62ff7f6854bbb",
+    "@timestamp": "2025-05-12T08:18:15.335011049Z",
+    "email": "prligal@gmail.com",
+    "bgtools_code": null,
+    "subaccount": null,
+    "@version": "1",
+    "state": "sent",
+    "ts": 1747037701,
+    "_id": "e9d060e440ce409ba0f62ff7f6854bbb",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "log_classification": "sensitive",
+    "document_id": "31261772.97572177671e42f884cd4aea069179ad",
+    "@timestamp": "2025-05-14T04:27:18.586908205Z",
+    "opens": 2,
+    "email": "buithiminh@g.swu.ac.th",
+    "@version": "1",
+    "reject": null,
+    "resends": [],
+    "event": [],
+    "state": "sent",
+    "subaccount": null,
+    "ts": 1747037700,
+    "subject": "Latest Updates from Exploring Economics",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "clicks": 0,
+    "bgtools_code": null,
+    "diag": null,
+    "tags": [],
+    "smtp_events": [
+      {
+        "destination_ip": "142.250.9.26",
+        "ts": 1747037701,
+        "diag": "250 2.0.0 OK  1747037701 00721157ae682-70a45dc1270si56826827b3.176 - gsmtp",
+        "type": "sent",
+        "source_ip": "198.2.179.22",
+        "size": 74015
+      }
+    ],
+    "_id": "97572177671e42f884cd4aea069179ad",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ts": 1747037702,
+        "ip": "74.125.150.35",
+        "location": "California, US",
+        "ua": "Windows\/Windows\/Chrome\/Chrome 42.0.2311.135"
+      },
+      {
+        "ts": 1747196593,
+        "ip": "146.75.187.43",
+        "location": "-, SE",
+        "ua": null
+      }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "@version": "1",
+    "ts": 1747037699,
+    "clicks": 0,
+    "event": [],
+    "bgtools_code": null,
+    "state": "sent",
+    "smtp_events": [
+      {
+        "ts": 1747037700,
+        "source_ip": "198.2.179.22",
+        "diag": "250 2.0.0 OK  1747037700 3f1490d57ef6-e78fd711784si109594276.274 - gsmtp",
+        "destination_ip": "142.251.15.26",
+        "type": "sent",
+        "size": 73995
+      }
+    ],
+    "email": "leu4hic@gmail.com",
+    "subaccount": null,
+    "subject": "Latest Updates from Exploring Economics",
+    "opens": 0,
+    "document_id": "31261772.05aee4bbd74642b58d0409d85c8d2792",
+    "log_classification": "sensitive",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "tags": [],
+    "resends": [],
+    "@timestamp": "2025-05-12T08:19:45.916046897Z",
+    "diag": null,
+    "reject": null,
+    "_id": "05aee4bbd74642b58d0409d85c8d2792",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "@version": "1",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "ts": 1747037698,
+    "subaccount": null,
+    "resends": [],
+    "@timestamp": "2025-05-12T08:19:44.845900820Z",
+    "diag": null,
+    "tags": [],
+    "log_classification": "sensitive",
+    "bgtools_code": null,
+    "clicks": 0,
+    "email": "simonohlhoff@gmail.com",
+    "document_id": "31261772.96e7117c48134f82b17329a59ce1484c",
+    "state": "sent",
+    "event": [],
+    "smtp_events": [
+      {
+        "source_ip": "198.2.179.22",
+        "destination_ip": "142.251.15.26",
+        "diag": "250 2.0.0 OK  1747037699 3f1490d57ef6-e78fd742563si6721569276.320 - gsmtp",
+        "ts": 1747037699,
+        "type": "sent",
+        "size": 85071
+      }
+    ],
+    "opens": 0,
+    "reject": null,
+    "subject": "Latest Updates from Exploring Economics",
+    "_id": "96e7117c48134f82b17329a59ce1484c",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "elasticsearch_index": "delivered-2025-05-12",
+    "opens": 1,
+    "@version": "1",
+    "subject": "Latest Updates from Exploring Economics",
+    "email": "pumuckelx@web.de",
+    "subaccount": null,
+    "diag": null,
+    "document_id": "31261772.58c10799f4c1453bb630e72dbcb800fa",
+    "ts": 1747037698,
+    "smtp_events": [
+      {
+        "size": 57088,
+        "source_ip": "198.2.187.22",
+        "ts": 1747037699,
+        "destination_ip": "212.227.15.17",
+        "type": "sent",
+        "diag": "250 Requested mail action okay, completed: id=1MLzO9-1uVmjq1Izx-00X8f4"
+      }
+    ],
+    "log_classification": "sensitive",
+    "state": "sent",
+    "clicks": 0,
+    "resends": [],
+    "@timestamp": "2025-05-12T09:28:18.309704161Z",
+    "event": [],
+    "tags": [],
+    "reject": null,
+    "bgtools_code": null,
+    "_id": "58c10799f4c1453bb630e72dbcb800fa",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ip": "201.149.2.10",
+        "ts": 1747041926,
+        "location": "Distrito Federal, MX",
+        "ua": null
+      }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "tags": [],
+    "subject": "Latest Updates from Exploring Economics",
+    "event": [],
+    "ts": 1747037697,
+    "log_classification": "sensitive",
+    "@timestamp": "2025-05-12T08:19:44.166649119Z",
+    "diag": null,
+    "bgtools_code": null,
+    "elasticsearch_index": "delivered-2025-05-12",
+    "document_id": "31261772.7df01e25b6034c98be64d28f875aa8a9",
+    "email": "grasshof@live.com",
+    "subaccount": null,
+    "resends": [],
+    "smtp_events": [
+      {
+        "size": 74022,
+        "ts": 1747037699,
+        "source_ip": "198.2.179.22",
+        "diag": "250 2.6.0 <31261772.20250512081457.6821ae01550386.21696007@mail179-22.suw41.mandrillapp.com> [InternalId=58063662885416, Hostname=DU0PR10MB7263.EURPRD10.PROD.OUTLOOK.COM] 86496 bytes in 0.319, 263.981 KB\/sec Queued mail for delivery -> 250 2.1.5",
+        "type": "sent",
+        "destination_ip": "52.101.10.15"
+      }
+    ],
+    "state": "sent",
+    "@version": "1",
+    "clicks": 0,
+    "opens": 0,
+    "reject": null,
+    "_id": "7df01e25b6034c98be64d28f875aa8a9",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "bgtools_code": null,
+    "@timestamp": "2025-05-12T19:05:23.189510965Z",
+    "@version": "1",
+    "event": [],
+    "subject": "Latest Updates from Exploring Economics",
+    "subaccount": null,
+    "state": "sent",
+    "ts": 1747037696,
+    "email": "aline.blankertz@rebalance-now.de",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "reject": null,
+    "diag": null,
+    "log_classification": "sensitive",
+    "smtp_events": [
+      {
+        "diag": "250 2.0.0 Ok: queued as B2AF8141",
+        "ts": 1747037698,
+        "destination_ip": "185.15.192.57",
+        "source_ip": "198.2.179.22",
+        "type": "sent",
+        "size": 85081
+      }
+    ],
+    "clicks": 0,
+    "resends": [],
+    "document_id": "31261772.f687649f025d4b458dc4088bd055049f",
+    "tags": [],
+    "opens": 1,
+    "_id": "f687649f025d4b458dc4088bd055049f",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      { "location": null, "ua": null, "ts": 1747076277, "ip": "104.28.129.25" }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "resends": [],
+    "reject": null,
+    "@version": "1",
+    "clicks": 1,
+    "event": [],
+    "smtp_events": [
+      {
+        "destination_ip": "142.251.15.26",
+        "diag": "250 2.0.0 OK  1747037696 00721157ae682-70a3d9df2ecsi62666407b3.420 - gsmtp",
+        "size": 74007,
+        "source_ip": "198.2.179.22",
+        "type": "sent",
+        "ts": 1747037696
+      }
+    ],
+    "@timestamp": "2025-05-12T13:34:58.503767664Z",
+    "tags": [],
+    "document_id": "31261772.9077db13aee948f5a9181e0f4c3e8bc5",
+    "diag": null,
+    "log_classification": "sensitive",
+    "email": "jgriffiths.fil@gmail.com",
+    "subaccount": null,
+    "subject": "Latest Updates from Exploring Economics",
+    "state": "sent",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "ts": 1747037695,
+    "bgtools_code": null,
+    "opens": 2,
+    "_id": "9077db13aee948f5a9181e0f4c3e8bc5",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ua": "OS X\/OS X\/Safari\/Safari 18.3.1",
+        "ip": "62.56.118.75",
+        "location": "England, GB",
+        "ts": 1747056319
+      },
+      {
+        "ua": null,
+        "ip": "66.249.93.38",
+        "location": "California, US",
+        "ts": 1747056293
+      }
+    ],
+    "clicks_detail": [
+      {
+        "ua": "OS X\/OS X\/Safari\/Safari 18.3.1",
+        "ip": "62.56.118.75",
+        "location": "England, GB",
+        "url": "https:\/\/www.exploring-economics.org\/en\/discover\/fiscal-austerity-vs-expansionary-fiscal-policy\/",
+        "ts": 1747056319
+      }
+    ]
+  },
+  {
+    "bgtools_code": null,
+    "diag": null,
+    "document_id": "31261772.f27be30b83df48cda8caace98f0914cb",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "@version": "1",
+    "tags": [],
+    "event": [],
+    "clicks": 1,
+    "opens": 1,
+    "subaccount": null,
+    "log_classification": "sensitive",
+    "email": "adinojt@gmail.com",
+    "smtp_events": [
+      {
+        "source_ip": "198.2.179.22",
+        "diag": "250 2.0.0 OK  1747037694 00721157ae682-70a3d9df2ecsi62666407b3.420 - gsmtp",
+        "ts": 1747037694,
+        "destination_ip": "142.251.15.26",
+        "type": "sent",
+        "size": 74007
+      }
+    ],
+    "ts": 1747037694,
+    "subject": "Latest Updates from Exploring Economics",
+    "resends": [],
+    "state": "sent",
+    "reject": null,
+    "@timestamp": "2025-05-12T08:48:19.944803507Z",
+    "_id": "f27be30b83df48cda8caace98f0914cb",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "ts": 1747039662,
+        "ip": "163.116.177.122",
+        "ua": "Windows\/Windows\/Chrome\/Chrome 136.0.0.0",
+        "location": "Ile-de-france, FR"
+      }
+    ],
+    "clicks_detail": [
+      {
+        "ts": 1747039662,
+        "url": "https:\/\/www.exploring-economics.org\/en\/discover\/fiscal-austerity-vs-expansionary-fiscal-policy\/",
+        "ip": "163.116.177.122",
+        "ua": "Windows\/Windows\/Chrome\/Chrome 136.0.0.0",
+        "location": "Ile-de-france, FR"
+      }
+    ]
+  },
+  {
+    "resends": [],
+    "reject": null,
+    "@version": "1",
+    "clicks": 0,
+    "event": [],
+    "smtp_events": [
+      {
+        "destination_ip": "142.251.15.26",
+        "diag": "250 2.0.0 OK  1747037695 3f1490d57ef6-e78fd5bb999si6643796276.7 - gsmtp",
+        "size": 74007,
+        "source_ip": "198.2.187.22",
+        "type": "sent",
+        "ts": 1747037695
+      }
+    ],
+    "@timestamp": "2025-05-12T08:18:22.997608324Z",
+    "tags": [],
+    "document_id": "31261772.da99eac8564a4ab7b75400b8e381a6c6",
+    "diag": null,
+    "log_classification": "sensitive",
+    "email": "workod@gmail.com",
+    "subaccount": null,
+    "subject": "Latest Updates from Exploring Economics",
+    "state": "sent",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "ts": 1747037694,
+    "bgtools_code": null,
+    "opens": 0,
+    "_id": "da99eac8564a4ab7b75400b8e381a6c6",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "resends": [],
+    "clicks": 0,
+    "subaccount": null,
+    "reject": null,
+    "bgtools_code": null,
+    "@version": "1",
+    "ts": 1747037693,
+    "log_classification": "sensitive",
+    "document_id": "31261772.4261ecb3fcb8414ea35207074f566a2c",
+    "email": "jakobhofmann2@gmail.com",
+    "opens": 2,
+    "@timestamp": "2025-05-14T10:04:50.842154348Z",
+    "state": "sent",
+    "diag": null,
+    "tags": [],
+    "event": [],
+    "smtp_events": [
+      {
+        "source_ip": "198.2.179.22",
+        "destination_ip": "142.251.15.26",
+        "ts": 1747037693,
+        "diag": "250 2.0.0 OK  1747037693 3f1490d57ef6-e78fd711db7si6758207276.218 - gsmtp",
+        "type": "sent",
+        "size": 73737
+      }
+    ],
+    "elasticsearch_index": "delivered-2025-05-12",
+    "subject": "Latest Updates from Exploring Economics",
+    "_id": "4261ecb3fcb8414ea35207074f566a2c",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      { "ts": 1747043662, "ip": "104.28.54.87", "location": null, "ua": null },
+      { "ts": 1747216763, "ip": "104.28.30.78", "location": null, "ua": null }
+    ],
+    "clicks_detail": []
+  },
+  {
+    "bgtools_code": null,
+    "@timestamp": "2025-05-12T08:18:18.467022139Z",
+    "@version": "1",
+    "event": [],
+    "subject": "Latest Updates from Exploring Economics",
+    "subaccount": null,
+    "state": "sent",
+    "ts": 1747037692,
+    "email": "otrebhor@gmail.com",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "reject": null,
+    "diag": null,
+    "log_classification": "sensitive",
+    "smtp_events": [
+      {
+        "diag": "250 2.0.0 OK  1747037693 00721157ae682-70a3d7eff9dsi66017407b3.65 - gsmtp",
+        "ts": 1747037693,
+        "destination_ip": "173.194.219.27",
+        "source_ip": "198.2.187.22",
+        "type": "sent",
+        "size": 74017
+      }
+    ],
+    "clicks": 0,
+    "resends": [],
+    "document_id": "31261772.7356607af9e741238cc65f0aa1443917",
+    "tags": [],
+    "opens": 0,
+    "_id": "7356607af9e741238cc65f0aa1443917",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [],
+    "clicks_detail": []
+  },
+  {
+    "@version": "1",
+    "elasticsearch_index": "delivered-2025-05-12",
+    "ts": 1747037691,
+    "subaccount": null,
+    "resends": [],
+    "@timestamp": "2025-05-12T13:13:49.828216805Z",
+    "diag": null,
+    "tags": [],
+    "log_classification": "sensitive",
+    "bgtools_code": null,
+    "clicks": 0,
+    "email": "mirna.juran@gmail.com",
+    "document_id": "31261772.f1008810b0674a32937b2cc17dfdcdd7",
+    "state": "sent",
+    "event": [],
+    "smtp_events": [
+      {
+        "source_ip": "198.2.179.22",
+        "destination_ip": "142.251.15.26",
+        "diag": "250 2.0.0 OK  1747037692 00721157ae682-70a3d9506d2si67091207b3.260 - gsmtp",
+        "ts": 1747037692,
+        "type": "sent",
+        "size": 68544
+      }
+    ],
+    "opens": 1,
+    "reject": null,
+    "subject": "Latest Updates from Exploring Economics",
+    "_id": "f1008810b0674a32937b2cc17dfdcdd7",
+    "sender": "newsletter@exploring-economics.org",
+    "template": "content-update-2023-07",
+    "opens_detail": [
+      {
+        "location": "California, US",
+        "ua": null,
+        "ip": "66.249.81.134",
+        "ts": 1747055068
+      }
+    ],
+    "clicks_detail": []
+  }
+]
