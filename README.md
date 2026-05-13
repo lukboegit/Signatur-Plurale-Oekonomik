@@ -47,7 +47,4 @@ beginnt. Den bitte nicht verändern.
 + HTML Mailsignatur bei **Apple Mail** einrichten: https://www.apfelschule.com/html-signatur-in-apple-mail/
 + HTML Signatur bei **Thunderbird** einrichten: https://support.mozilla.org/de/kb/signaturen
 + HTML Signatur bei **Outlook** einrichten: https://clean.email/blog/email-signature/outlook-html-signature
-
-Outlook oder Apple Mail behandeln das hinzufügen von Signaturen in HTML code eher wie etwas, das man verstecken muss. Falls Du also noch keinen Mail Client nutzt, nimm gerne Thunderbird, it is good an open source.
-
-Wenn du den Mittwald Webmailer nutzt, findest du eure Signatur unter Settings->Identities. Die Mailsignatur die du dort einstellt, wird allerdings nur genutzt, wenn du Mails über das Webinterface versendest.
++ HTML Signatur im **Mittwald Webmailer** einrichten: Wenn du den Mittwald Webmailer nutzt, findest du die Signatur unter Settings->Identities. Hier die signatur_Netzwerk_inline.html nutzen statt signatur_Netzwerk.html
